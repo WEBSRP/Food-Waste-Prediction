@@ -1,0 +1,1096 @@
+service_date,meal_type,menu_category,menu_items,day_of_week,is_holiday,special_event,weather_condition,temperature_c,meals_prepared,meals_served,leftover_portions,food_discarded_portions,unmet_demand_portions,is_synthetic
+2025-10-15,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,28.4,372,337,35,18,0,1
+2025-10-15,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,28.4,624,565,59,29,0,1
+2025-10-15,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,28.4,676,618,58,29,0,1
+2025-10-16,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,27.5,387,356,31,17,0,1
+2025-10-16,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,27.5,691,642,49,33,0,1
+2025-10-16,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,27.5,495,430,65,25,0,1
+2025-10-17,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,28.1,304,268,36,17,0,1
+2025-10-17,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,28.1,554,467,87,46,0,1
+2025-10-17,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,28.1,527,476,51,23,0,1
+2025-10-18,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,28.6,273,232,41,14,0,1
+2025-10-18,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,28.6,470,399,71,36,0,1
+2025-10-18,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,28.6,519,460,59,26,0,1
+2025-10-19,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,25.8,296,242,54,33,0,1
+2025-10-19,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,25.8,450,370,80,47,0,1
+2025-10-19,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,25.8,441,393,48,23,0,1
+2025-10-20,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,1,none,clear,27.8,272,219,53,32,0,1
+2025-10-20,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,1,none,clear,27.8,524,412,112,40,0,1
+2025-10-20,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,1,none,clear,27.8,331,267,64,43,0,1
+2025-10-21,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,clear,26.7,358,282,76,46,0,1
+2025-10-21,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,clear,26.7,560,489,71,48,0,1
+2025-10-21,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,clear,26.7,550,521,29,17,0,1
+2025-10-22,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,27.3,329,303,26,11,0,1
+2025-10-22,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,27.3,652,605,47,19,0,1
+2025-10-22,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,27.3,612,559,53,29,0,1
+2025-10-23,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,28.5,353,317,36,18,0,1
+2025-10-23,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,28.5,546,521,25,9,0,1
+2025-10-23,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,28.5,604,574,30,20,0,1
+2025-10-24,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,27.5,384,335,49,33,0,1
+2025-10-24,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,27.5,740,648,92,40,0,1
+2025-10-24,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,27.5,467,399,68,39,0,1
+2025-10-25,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,clear,24.6,240,214,26,11,0,1
+2025-10-25,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,clear,24.6,483,400,83,47,0,1
+2025-10-25,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,clear,24.6,478,418,60,35,0,1
+2025-10-26,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,clear,27.1,264,242,22,9,0,1
+2025-10-26,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,clear,27.1,459,414,45,24,0,1
+2025-10-26,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,clear,27.1,458,385,73,33,0,1
+2025-10-27,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,27.8,392,351,41,15,0,1
+2025-10-27,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,27.8,575,532,43,19,0,1
+2025-10-27,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,27.8,663,610,53,36,0,1
+2025-10-28,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,28.9,390,373,17,10,0,1
+2025-10-28,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,28.9,728,671,57,32,0,1
+2025-10-28,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,28.9,511,450,61,20,0,1
+2025-10-29,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,30.1,337,280,57,20,0,1
+2025-10-29,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,30.1,554,489,65,29,0,1
+2025-10-29,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,30.1,572,513,59,36,0,1
+2025-10-30,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,32.1,336,299,37,13,0,1
+2025-10-30,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,32.1,630,603,27,12,0,1
+2025-10-30,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,32.1,584,551,33,18,0,1
+2025-10-31,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,clear,29.4,385,328,57,36,0,1
+2025-10-31,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,clear,29.4,581,521,60,33,0,1
+2025-10-31,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,clear,29.4,609,520,89,47,0,1
+2025-11-01,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,21.4,293,272,21,13,0,1
+2025-11-01,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,21.4,583,513,70,44,0,1
+2025-11-01,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,21.4,331,287,44,23,0,1
+2025-11-02,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,21.1,217,181,36,13,0,1
+2025-11-02,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,21.1,396,344,52,19,0,1
+2025-11-02,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,21.1,390,335,55,24,0,1
+2025-11-03,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,19.3,346,310,36,19,0,1
+2025-11-03,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,19.3,639,618,21,7,0,1
+2025-11-03,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,19.3,616,555,61,28,0,1
+2025-11-04,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,21.7,350,338,12,7,0,1
+2025-11-04,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,21.7,559,526,33,16,0,1
+2025-11-04,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,21.7,597,581,16,5,0,1
+2025-11-05,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,1,none,clear,21.2,212,188,24,16,0,1
+2025-11-05,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,1,none,clear,21.2,528,428,100,45,0,1
+2025-11-05,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,1,none,clear,21.2,289,251,38,16,0,1
+2025-11-06,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,20.6,327,274,53,30,0,1
+2025-11-06,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,20.6,515,471,44,29,0,1
+2025-11-06,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,20.6,556,498,58,31,0,1
+2025-11-07,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,26.6,315,285,30,18,0,1
+2025-11-07,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,26.6,681,578,103,41,0,1
+2025-11-07,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,26.6,619,532,87,56,0,1
+2025-11-08,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,22.1,302,271,31,19,0,1
+2025-11-08,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,22.1,439,383,56,22,0,1
+2025-11-08,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,22.1,495,413,82,48,0,1
+2025-11-09,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,22.7,330,270,60,29,0,1
+2025-11-09,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,22.7,589,509,80,41,0,1
+2025-11-09,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,22.7,390,340,50,25,0,1
+2025-11-10,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,exam_week,clear,22.7,373,328,45,15,0,1
+2025-11-10,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,exam_week,clear,22.7,700,604,96,39,0,1
+2025-11-10,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,exam_week,clear,22.7,618,566,52,29,0,1
+2025-11-11,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,exam_week,clear,23.1,355,314,41,20,0,1
+2025-11-11,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,exam_week,clear,23.1,705,648,57,29,0,1
+2025-11-11,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,exam_week,clear,23.1,690,635,55,35,0,1
+2025-11-12,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,exam_week,clear,22.0,418,389,29,10,0,1
+2025-11-12,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,exam_week,clear,22.0,643,591,52,18,0,1
+2025-11-12,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,exam_week,clear,22.0,727,659,68,39,0,1
+2025-11-13,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,exam_week,clear,22.0,473,413,60,26,0,1
+2025-11-13,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,exam_week,clear,22.0,812,725,87,53,0,1
+2025-11-13,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,exam_week,clear,22.0,553,484,69,30,0,1
+2025-11-14,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,exam_week,clear,21.0,308,294,14,8,0,1
+2025-11-14,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,exam_week,clear,21.0,614,550,64,24,0,1
+2025-11-14,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,exam_week,clear,21.0,566,486,80,31,0,1
+2025-11-15,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,exam_week,clear,24.0,291,235,56,28,0,1
+2025-11-15,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,exam_week,clear,24.0,611,517,94,42,0,1
+2025-11-15,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,exam_week,clear,24.0,528,487,41,28,0,1
+2025-11-16,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,exam_week,clear,22.9,316,275,41,23,0,1
+2025-11-16,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,exam_week,clear,22.9,484,454,30,10,0,1
+2025-11-16,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,exam_week,clear,22.9,558,508,50,18,0,1
+2025-11-17,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,exam_week,clear,22.7,456,407,49,23,0,1
+2025-11-17,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,exam_week,clear,22.7,855,804,51,25,0,1
+2025-11-17,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,exam_week,clear,22.7,586,505,81,51,0,1
+2025-11-18,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,exam_week,clear,23.4,369,309,60,27,0,1
+2025-11-18,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,exam_week,clear,23.4,634,575,59,24,0,1
+2025-11-18,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,exam_week,clear,23.4,614,562,52,21,0,1
+2025-11-19,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,exam_week,clear,22.0,375,336,39,26,0,1
+2025-11-19,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,exam_week,clear,22.0,736,684,52,20,0,1
+2025-11-19,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,exam_week,clear,22.0,696,629,67,35,0,1
+2025-11-20,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,exam_week,clear,24.8,388,374,14,6,0,1
+2025-11-20,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,exam_week,clear,24.8,674,618,56,29,0,1
+2025-11-20,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,exam_week,clear,24.8,685,647,38,18,0,1
+2025-11-21,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,20.7,375,339,36,12,0,1
+2025-11-21,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,20.7,752,652,100,59,0,1
+2025-11-21,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,20.7,462,408,54,27,0,1
+2025-11-22,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,clear,23.3,265,222,43,17,0,1
+2025-11-22,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,clear,23.3,458,383,75,48,0,1
+2025-11-22,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,clear,23.3,417,393,24,8,0,1
+2025-11-23,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,clear,25.9,271,234,37,20,0,1
+2025-11-23,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,clear,25.9,519,442,77,39,0,1
+2025-11-23,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,clear,25.9,446,399,47,21,0,1
+2025-11-24,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,23.1,375,352,23,12,0,1
+2025-11-24,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,23.1,617,569,48,15,0,1
+2025-11-24,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,23.1,727,654,73,37,0,1
+2025-11-25,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,22.1,378,367,11,6,0,1
+2025-11-25,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,22.1,795,721,74,46,0,1
+2025-11-25,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,22.1,507,434,73,49,0,1
+2025-11-26,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,20.9,322,282,40,16,0,1
+2025-11-26,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,20.9,563,497,66,38,0,1
+2025-11-26,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,20.9,505,498,7,4,0,1
+2025-11-27,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,22.6,308,302,6,3,0,1
+2025-11-27,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,22.6,616,600,16,7,0,1
+2025-11-27,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,22.6,544,527,17,11,0,1
+2025-11-28,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,clear,21.3,403,333,70,34,0,1
+2025-11-28,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,clear,21.3,548,488,60,27,0,1
+2025-11-28,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,clear,21.3,662,562,100,67,0,1
+2025-11-29,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,17.7,287,257,30,13,0,1
+2025-11-29,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,17.7,611,520,91,57,0,1
+2025-11-29,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,17.7,366,322,44,17,0,1
+2025-11-30,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,24.2,243,209,34,17,0,1
+2025-11-30,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,24.2,493,417,76,27,0,1
+2025-11-30,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,24.2,440,373,67,43,0,1
+2025-12-01,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,16.8,375,332,43,14,0,1
+2025-12-01,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,16.8,643,584,59,23,0,1
+2025-12-01,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,16.8,647,598,49,19,0,1
+2025-12-02,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,cold_fog,13.2,338,305,33,15,0,1
+2025-12-02,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,cold_fog,13.2,559,505,54,25,0,1
+2025-12-02,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,cold_fog,13.2,696,639,57,31,0,1
+2025-12-03,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,15.9,374,371,3,2,0,1
+2025-12-03,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,15.9,744,681,63,42,0,1
+2025-12-03,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,15.9,497,426,71,29,0,1
+2025-12-04,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,cold_fog,10.7,305,265,40,20,0,1
+2025-12-04,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,cold_fog,10.7,545,483,62,23,0,1
+2025-12-04,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,cold_fog,10.7,517,492,25,11,0,1
+2025-12-05,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,15.0,357,317,40,25,0,1
+2025-12-05,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,15.0,649,564,85,31,0,1
+2025-12-05,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,15.0,595,524,71,30,0,1
+2025-12-06,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,15.4,324,261,63,22,0,1
+2025-12-06,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,15.4,473,392,81,36,0,1
+2025-12-06,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,15.4,516,436,80,51,0,1
+2025-12-07,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,cold_fog,12.0,256,222,34,16,0,1
+2025-12-07,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,cold_fog,12.0,524,452,72,38,0,1
+2025-12-07,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,cold_fog,12.0,409,337,72,48,0,1
+2025-12-08,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,cold_fog,12.5,314,279,35,19,0,1
+2025-12-08,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,cold_fog,12.5,616,538,78,39,0,1
+2025-12-08,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,cold_fog,12.5,580,533,47,27,0,1
+2025-12-09,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,16.6,341,314,27,11,0,1
+2025-12-09,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,16.6,678,634,44,22,0,1
+2025-12-09,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,16.6,576,551,25,8,0,1
+2025-12-10,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,14.8,393,357,36,21,0,1
+2025-12-10,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,14.8,580,562,18,10,0,1
+2025-12-10,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,14.8,667,627,40,18,0,1
+2025-12-11,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,15.5,391,351,40,26,0,1
+2025-12-11,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,15.5,699,642,57,22,0,1
+2025-12-11,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,15.5,488,454,34,18,0,1
+2025-12-12,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,20.3,307,261,46,23,0,1
+2025-12-12,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,20.3,522,444,78,26,0,1
+2025-12-12,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,20.3,563,463,100,49,0,1
+2025-12-13,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,16.6,295,249,46,23,0,1
+2025-12-13,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,16.6,482,423,59,27,0,1
+2025-12-13,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,16.6,507,434,73,41,0,1
+2025-12-14,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,15.4,300,249,51,30,0,1
+2025-12-14,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,15.4,457,405,52,28,0,1
+2025-12-14,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,15.4,518,451,67,26,0,1
+2025-12-15,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,cold_fog,13.4,368,332,36,19,0,1
+2025-12-15,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,cold_fog,13.4,745,690,55,21,0,1
+2025-12-15,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,cold_fog,13.4,472,417,55,37,0,1
+2025-12-16,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,cold_fog,12.5,345,286,59,21,0,1
+2025-12-16,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,cold_fog,12.5,577,530,47,28,0,1
+2025-12-16,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,cold_fog,12.5,571,524,47,30,0,1
+2025-12-17,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,18.8,357,331,26,12,0,1
+2025-12-17,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,18.8,669,608,61,38,0,1
+2025-12-17,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,18.8,630,589,41,19,0,1
+2025-12-18,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,18.2,240,232,8,3,0,1
+2025-12-18,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,18.2,352,344,8,4,0,1
+2025-12-18,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,18.2,437,384,53,21,0,1
+2025-12-19,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,17.0,223,211,12,8,0,1
+2025-12-19,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,17.0,509,447,62,31,0,1
+2025-12-19,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,17.0,297,264,33,17,0,1
+2025-12-20,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,1,none,clear,17.6,137,116,21,10,0,1
+2025-12-20,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,1,none,clear,17.6,304,242,62,32,0,1
+2025-12-20,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,1,none,clear,17.6,262,206,56,33,0,1
+2025-12-21,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,1,none,cold_fog,12.2,174,134,40,25,0,1
+2025-12-21,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,1,none,cold_fog,12.2,282,223,59,27,0,1
+2025-12-21,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,1,none,cold_fog,12.2,269,232,37,16,0,1
+2025-12-22,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,14.5,273,241,32,14,0,1
+2025-12-22,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,14.5,389,368,21,10,0,1
+2025-12-22,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,14.5,460,437,23,15,0,1
+2025-12-23,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,15.3,264,230,34,20,0,1
+2025-12-23,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,15.3,480,436,44,22,0,1
+2025-12-23,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,15.3,306,266,40,24,0,1
+2025-12-24,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,15.1,229,205,24,14,0,1
+2025-12-24,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,15.1,389,354,35,20,0,1
+2025-12-24,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,15.1,347,326,21,11,0,1
+2025-12-25,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,1,none,clear,17.9,242,189,53,22,0,1
+2025-12-25,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,1,none,clear,17.9,401,349,52,31,0,1
+2025-12-25,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,1,none,clear,17.9,389,311,78,30,0,1
+2025-12-26,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,cold_fog,13.2,220,195,25,9,0,1
+2025-12-26,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,cold_fog,13.2,391,356,35,23,0,1
+2025-12-26,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,cold_fog,13.2,451,381,70,32,0,1
+2025-12-27,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,1,none,clear,17.4,161,139,22,10,0,1
+2025-12-27,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,1,none,clear,17.4,329,281,48,28,0,1
+2025-12-27,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,1,none,clear,17.4,198,186,12,7,0,1
+2025-12-28,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,1,none,clear,15.1,91,75,16,6,0,1
+2025-12-28,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,1,none,clear,15.1,223,202,21,14,0,1
+2025-12-28,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,1,none,clear,15.1,235,190,45,15,0,1
+2025-12-29,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,cold_fog,13.3,225,202,23,11,0,1
+2025-12-29,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,cold_fog,13.3,482,436,46,23,0,1
+2025-12-29,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,cold_fog,13.3,411,379,32,19,0,1
+2025-12-30,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,16.1,256,242,14,7,0,1
+2025-12-30,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,16.1,436,423,13,8,0,1
+2025-12-30,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,16.1,452,422,30,14,0,1
+2025-12-31,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,16.2,251,236,15,9,0,1
+2025-12-31,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,16.2,470,427,43,23,0,1
+2025-12-31,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,16.2,315,299,16,5,0,1
+2026-01-01,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,cold_fog,13.9,307,253,54,24,0,1
+2026-01-01,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,cold_fog,13.9,586,514,72,38,0,1
+2026-01-01,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,cold_fog,13.9,546,496,50,21,0,1
+2026-01-02,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,17.2,305,278,27,13,0,1
+2026-01-02,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,17.2,636,550,86,50,0,1
+2026-01-02,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,17.2,605,498,107,36,0,1
+2026-01-03,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,17.3,298,263,35,14,0,1
+2026-01-03,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,17.3,480,414,66,30,0,1
+2026-01-03,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,17.3,471,413,58,30,0,1
+2026-01-04,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,16.7,286,261,25,12,0,1
+2026-01-04,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,16.7,608,498,110,62,0,1
+2026-01-04,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,16.7,354,334,20,13,0,1
+2026-01-05,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,18.7,286,267,19,10,0,1
+2026-01-05,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,18.7,608,507,101,57,0,1
+2026-01-05,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,18.7,526,498,28,9,0,1
+2026-01-06,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,cold_fog,12.9,291,279,12,7,0,1
+2026-01-06,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,cold_fog,12.9,646,603,43,15,0,1
+2026-01-06,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,cold_fog,12.9,566,533,33,18,0,1
+2026-01-07,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,cold_fog,12.6,353,309,44,22,0,1
+2026-01-07,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,cold_fog,12.6,586,553,33,22,0,1
+2026-01-07,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,cold_fog,12.6,681,625,56,23,0,1
+2026-01-08,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,cold_fog,7.5,363,332,31,21,0,1
+2026-01-08,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,cold_fog,7.5,709,659,50,18,0,1
+2026-01-08,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,cold_fog,7.5,456,396,60,37,0,1
+2026-01-09,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,cold_fog,11.3,262,228,34,13,0,1
+2026-01-09,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,cold_fog,11.3,530,468,62,36,0,1
+2026-01-09,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,cold_fog,11.3,554,472,82,36,0,1
+2026-01-10,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,cold_fog,11.8,274,226,48,29,0,1
+2026-01-10,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,cold_fog,11.8,526,468,58,22,0,1
+2026-01-10,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,cold_fog,11.8,437,393,44,18,0,1
+2026-01-11,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,17.3,287,244,43,18,0,1
+2026-01-11,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,17.3,434,389,45,20,0,1
+2026-01-11,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,17.3,506,443,63,26,0,1
+2026-01-12,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,14.8,359,340,19,12,0,1
+2026-01-12,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,14.8,763,700,63,29,0,1
+2026-01-12,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,14.8,569,467,102,61,0,1
+2026-01-13,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,clear,14.3,313,280,33,11,0,1
+2026-01-13,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,clear,14.3,577,511,66,31,0,1
+2026-01-13,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,clear,14.3,557,504,53,34,0,1
+2026-01-14,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,15.9,339,309,30,11,0,1
+2026-01-14,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,15.9,704,646,58,24,0,1
+2026-01-14,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,15.9,629,564,65,37,0,1
+2026-01-15,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,16.7,356,324,32,19,0,1
+2026-01-15,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,16.7,620,559,61,31,0,1
+2026-01-15,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,16.7,625,577,48,18,0,1
+2026-01-16,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,15.2,356,310,46,19,0,1
+2026-01-16,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,15.2,797,674,123,73,0,1
+2026-01-16,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,15.2,481,417,64,40,0,1
+2026-01-17,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,cold_fog,13.6,270,229,41,20,0,1
+2026-01-17,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,cold_fog,13.6,444,384,60,27,0,1
+2026-01-17,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,cold_fog,13.6,461,375,86,32,0,1
+2026-01-18,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,cold_fog,12.6,240,208,32,10,0,1
+2026-01-18,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,cold_fog,12.6,495,413,82,46,0,1
+2026-01-18,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,cold_fog,12.6,476,406,70,47,0,1
+2026-01-19,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,14.2,365,351,14,6,0,1
+2026-01-19,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,14.2,622,575,47,23,0,1
+2026-01-19,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,14.2,632,578,54,23,0,1
+2026-01-20,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,cold_fog,13.3,366,338,28,9,0,1
+2026-01-20,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,cold_fog,13.3,804,745,59,34,0,1
+2026-01-20,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,cold_fog,13.3,487,422,65,28,0,1
+2026-01-21,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,sports_meet,clear,15.9,342,298,44,24,0,1
+2026-01-21,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,sports_meet,clear,15.9,615,538,77,35,0,1
+2026-01-21,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,sports_meet,clear,15.9,623,573,50,31,0,1
+2026-01-22,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,14.3,352,324,28,10,0,1
+2026-01-22,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,14.3,621,586,35,13,0,1
+2026-01-22,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,14.3,580,531,49,17,0,1
+2026-01-23,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,cold_fog,13.7,309,281,28,19,0,1
+2026-01-23,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,cold_fog,13.7,633,519,114,71,0,1
+2026-01-23,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,cold_fog,13.7,654,559,95,63,0,1
+2026-01-24,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,14.7,339,286,53,36,0,1
+2026-01-24,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,14.7,641,567,74,35,0,1
+2026-01-24,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,14.7,357,311,46,26,0,1
+2026-01-25,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,15.8,251,206,45,28,0,1
+2026-01-25,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,15.8,426,352,74,50,0,1
+2026-01-25,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,15.8,433,373,60,22,0,1
+2026-01-26,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,1,none,clear,15.5,214,177,37,19,0,1
+2026-01-26,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,1,none,clear,15.5,489,388,101,42,0,1
+2026-01-26,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,1,none,clear,15.5,371,315,56,28,0,1
+2026-01-27,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,14.9,377,356,21,14,0,1
+2026-01-27,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,14.9,621,569,52,33,0,1
+2026-01-27,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,14.9,645,607,38,14,0,1
+2026-01-28,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,15.5,397,360,37,25,0,1
+2026-01-28,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,15.5,701,668,33,17,0,1
+2026-01-28,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,15.5,508,439,69,27,0,1
+2026-01-29,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,cold_fog,10.0,304,267,37,13,0,1
+2026-01-29,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,cold_fog,10.0,548,488,60,24,0,1
+2026-01-29,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,cold_fog,10.0,555,531,24,12,0,1
+2026-01-30,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,cold_fog,8.2,275,244,31,12,0,1
+2026-01-30,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,cold_fog,8.2,619,544,75,40,0,1
+2026-01-30,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,cold_fog,8.2,592,499,93,59,0,1
+2026-01-31,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,16.6,290,253,37,15,0,1
+2026-01-31,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,16.6,438,385,53,20,0,1
+2026-01-31,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,16.6,518,451,67,35,0,1
+2026-02-01,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,17.3,315,269,46,20,0,1
+2026-02-01,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,17.3,628,529,99,46,0,1
+2026-02-01,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,17.3,327,280,47,24,0,1
+2026-02-02,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,18.4,318,278,40,17,0,1
+2026-02-02,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,18.4,575,519,56,23,0,1
+2026-02-02,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,18.4,562,526,36,21,0,1
+2026-02-03,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,16.8,298,274,24,16,0,1
+2026-02-03,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,16.8,691,633,58,30,0,1
+2026-02-03,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,16.8,642,567,75,47,0,1
+2026-02-04,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,17.7,365,326,39,25,0,1
+2026-02-04,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,17.7,598,566,32,11,0,1
+2026-02-04,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,17.7,627,582,45,25,0,1
+2026-02-05,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,17.0,408,362,46,22,0,1
+2026-02-05,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,17.0,722,673,49,31,0,1
+2026-02-05,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,17.0,486,395,91,57,0,1
+2026-02-06,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,18.7,315,273,42,23,0,1
+2026-02-06,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,18.7,569,483,86,46,0,1
+2026-02-06,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,18.7,551,488,63,42,0,1
+2026-02-07,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,19.2,260,228,32,17,0,1
+2026-02-07,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,19.2,490,445,45,28,0,1
+2026-02-07,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,19.2,512,449,63,36,0,1
+2026-02-08,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,20.4,277,231,46,30,0,1
+2026-02-08,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,20.4,493,440,53,34,0,1
+2026-02-08,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,20.4,499,461,38,20,0,1
+2026-02-09,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,17.9,378,346,32,15,0,1
+2026-02-09,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,17.9,718,687,31,15,0,1
+2026-02-09,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,17.9,512,448,64,21,0,1
+2026-02-10,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,clear,16.1,339,282,57,28,0,1
+2026-02-10,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,clear,16.1,549,495,54,32,0,1
+2026-02-10,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,clear,16.1,581,531,50,26,0,1
+2026-02-11,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,sports_meet,clear,24.7,355,332,23,15,0,1
+2026-02-11,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,sports_meet,clear,24.7,688,654,34,20,0,1
+2026-02-11,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,sports_meet,clear,24.7,686,628,58,39,0,1
+2026-02-12,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,14.9,333,324,9,5,0,1
+2026-02-12,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,14.9,562,522,40,15,0,1
+2026-02-12,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,14.9,654,612,42,14,0,1
+2026-02-13,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,14.9,368,334,34,20,0,1
+2026-02-13,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,14.9,716,606,110,73,0,1
+2026-02-13,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,14.9,446,402,44,15,0,1
+2026-02-14,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,clear,18.2,269,243,26,14,0,1
+2026-02-14,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,clear,18.2,440,397,43,20,0,1
+2026-02-14,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,clear,18.2,474,406,68,43,0,1
+2026-02-15,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,clear,16.7,259,233,26,9,0,1
+2026-02-15,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,clear,16.7,513,430,83,44,0,1
+2026-02-15,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,clear,16.7,497,443,54,20,0,1
+2026-02-16,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,20.5,339,328,11,7,0,1
+2026-02-16,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,20.5,608,566,42,25,0,1
+2026-02-16,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,20.5,654,622,32,16,0,1
+2026-02-17,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,20.1,406,372,34,14,0,1
+2026-02-17,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,20.1,737,675,62,42,0,1
+2026-02-17,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,20.1,528,458,70,35,0,1
+2026-02-18,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,campus_hackathon_fest,clear,14.2,363,320,43,16,0,1
+2026-02-18,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,campus_hackathon_fest,clear,14.2,635,595,40,27,0,1
+2026-02-18,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,campus_hackathon_fest,clear,14.2,629,586,43,18,0,1
+2026-02-19,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,campus_hackathon_fest,clear,17.8,397,361,36,18,0,1
+2026-02-19,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,campus_hackathon_fest,clear,17.8,874,776,98,42,0,1
+2026-02-19,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,campus_hackathon_fest,clear,17.8,724,655,69,41,0,1
+2026-02-20,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,clear,16.0,353,303,50,20,0,1
+2026-02-20,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,clear,16.0,587,508,79,49,0,1
+2026-02-20,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,clear,16.0,623,535,88,55,0,1
+2026-02-21,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,16.4,310,286,24,9,0,1
+2026-02-21,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,16.4,579,504,75,42,0,1
+2026-02-21,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,16.4,387,335,52,25,0,1
+2026-02-22,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,16.3,239,208,31,12,0,1
+2026-02-22,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,16.3,430,369,61,40,0,1
+2026-02-22,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,16.3,398,341,57,21,0,1
+2026-02-23,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,18.8,351,317,34,13,0,1
+2026-02-23,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,18.8,666,638,28,18,0,1
+2026-02-23,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,18.8,575,548,27,11,0,1
+2026-02-24,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,17.3,358,321,37,16,0,1
+2026-02-24,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,17.3,604,572,32,18,0,1
+2026-02-24,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,17.3,637,589,48,29,0,1
+2026-02-25,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,19.1,442,397,45,24,0,1
+2026-02-25,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,19.1,667,634,33,14,0,1
+2026-02-25,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,19.1,500,445,55,25,0,1
+2026-02-26,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,16.6,299,263,36,18,0,1
+2026-02-26,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,16.6,600,530,70,32,0,1
+2026-02-26,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,16.6,538,510,28,17,0,1
+2026-02-27,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,20.1,333,283,50,29,0,1
+2026-02-27,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,20.1,648,547,101,37,0,1
+2026-02-27,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,20.1,572,499,73,37,0,1
+2026-02-28,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,17.9,300,252,48,29,0,1
+2026-02-28,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,17.9,518,432,86,29,0,1
+2026-02-28,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,17.9,504,420,84,43,0,1
+2026-03-01,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,25.8,315,275,40,15,0,1
+2026-03-01,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,25.8,609,541,68,33,0,1
+2026-03-01,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,25.8,368,305,63,31,0,1
+2026-03-02,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,26.8,335,274,61,37,0,1
+2026-03-02,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,26.8,550,478,72,31,0,1
+2026-03-02,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,26.8,570,518,52,26,0,1
+2026-03-03,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,20.7,311,308,3,1,0,1
+2026-03-03,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,20.7,673,607,66,26,0,1
+2026-03-03,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,20.7,583,549,34,16,0,1
+2026-03-04,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,24.0,351,340,11,4,0,1
+2026-03-04,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,24.0,570,517,53,21,0,1
+2026-03-04,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,24.0,628,588,40,27,0,1
+2026-03-05,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,26.4,361,331,30,18,0,1
+2026-03-05,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,26.4,646,624,22,9,0,1
+2026-03-05,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,26.4,497,437,60,25,0,1
+2026-03-06,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,27.7,357,289,68,44,0,1
+2026-03-06,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,27.7,570,477,93,36,0,1
+2026-03-06,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,27.7,502,458,44,28,0,1
+2026-03-07,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,23.2,244,239,5,2,0,1
+2026-03-07,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,23.2,474,431,43,26,0,1
+2026-03-07,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,23.2,493,433,60,21,0,1
+2026-03-08,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,25.4,295,247,48,25,0,1
+2026-03-08,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,25.4,440,385,55,28,0,1
+2026-03-08,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,25.4,488,434,54,30,0,1
+2026-03-09,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,24.3,377,354,23,14,0,1
+2026-03-09,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,24.3,728,690,38,24,0,1
+2026-03-09,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,24.3,539,466,73,28,0,1
+2026-03-10,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,clear,23.8,331,283,48,29,0,1
+2026-03-10,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,clear,23.8,555,485,70,32,0,1
+2026-03-10,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,clear,23.8,543,506,37,21,0,1
+2026-03-11,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,24.1,300,283,17,7,0,1
+2026-03-11,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,24.1,610,583,27,16,0,1
+2026-03-11,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,24.1,608,548,60,20,0,1
+2026-03-12,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,29.3,343,322,21,13,0,1
+2026-03-12,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,29.3,579,553,26,11,0,1
+2026-03-12,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,29.3,653,575,78,41,0,1
+2026-03-13,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,26.1,391,347,44,26,0,1
+2026-03-13,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,26.1,722,624,98,40,0,1
+2026-03-13,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,26.1,497,440,57,31,0,1
+2026-03-14,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,1,none,clear,18.8,142,120,22,11,0,1
+2026-03-14,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,1,none,clear,18.8,278,220,58,33,0,1
+2026-03-14,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,1,none,clear,18.8,292,251,41,18,0,1
+2026-03-15,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,clear,23.0,307,259,48,20,0,1
+2026-03-15,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,clear,23.0,516,437,79,35,0,1
+2026-03-15,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,clear,23.0,466,398,68,40,0,1
+2026-03-16,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,26.9,391,347,44,28,0,1
+2026-03-16,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,26.9,619,572,47,22,0,1
+2026-03-16,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,26.9,641,608,33,15,0,1
+2026-03-17,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,27.4,377,360,17,7,0,1
+2026-03-17,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,27.4,738,707,31,10,0,1
+2026-03-17,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,27.4,496,427,69,37,0,1
+2026-03-18,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,23.5,322,300,22,8,0,1
+2026-03-18,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,23.5,570,486,84,56,0,1
+2026-03-18,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,23.5,529,509,20,11,0,1
+2026-03-19,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,24.9,329,301,28,18,0,1
+2026-03-19,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,24.9,611,571,40,26,0,1
+2026-03-19,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,24.9,583,538,45,19,0,1
+2026-03-20,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,clear,23.0,358,312,46,30,0,1
+2026-03-20,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,clear,23.0,595,506,89,50,0,1
+2026-03-20,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,clear,23.0,645,563,82,32,0,1
+2026-03-21,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,23.8,312,281,31,12,0,1
+2026-03-21,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,23.8,600,537,63,42,0,1
+2026-03-21,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,23.8,395,355,40,15,0,1
+2026-03-22,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,26.3,220,197,23,15,0,1
+2026-03-22,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,26.3,421,359,62,40,0,1
+2026-03-22,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,26.3,405,360,45,20,0,1
+2026-03-23,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,24.4,356,329,27,16,0,1
+2026-03-23,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,24.4,616,575,41,23,0,1
+2026-03-23,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,24.4,634,587,47,15,0,1
+2026-03-24,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,25.2,365,326,39,23,0,1
+2026-03-24,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,25.2,544,530,14,8,0,1
+2026-03-24,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,25.2,622,574,48,16,0,1
+2026-03-25,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,23.7,370,360,10,5,0,1
+2026-03-25,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,23.7,766,705,61,21,0,1
+2026-03-25,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,23.7,503,446,57,37,0,1
+2026-03-26,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,24.5,317,271,46,22,0,1
+2026-03-26,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,24.5,590,510,80,34,0,1
+2026-03-26,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,24.5,567,526,41,27,0,1
+2026-03-27,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,24.4,327,279,48,21,0,1
+2026-03-27,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,24.4,660,557,103,46,0,1
+2026-03-27,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,24.4,591,519,72,25,0,1
+2026-03-28,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,24.7,334,290,44,25,0,1
+2026-03-28,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,24.7,430,369,61,28,0,1
+2026-03-28,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,24.7,549,461,88,47,0,1
+2026-03-29,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,26.9,307,274,33,15,0,1
+2026-03-29,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,26.9,559,475,84,37,0,1
+2026-03-29,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,26.9,338,287,51,27,0,1
+2026-03-30,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,29.0,355,321,34,18,0,1
+2026-03-30,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,29.0,621,541,80,40,0,1
+2026-03-30,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,29.0,510,486,24,8,0,1
+2026-03-31,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,23.6,324,300,24,13,0,1
+2026-03-31,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,23.6,659,597,62,26,0,1
+2026-03-31,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,23.6,635,565,70,31,0,1
+2026-04-01,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,33.3,404,345,59,32,0,1
+2026-04-01,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,33.3,577,535,42,15,0,1
+2026-04-01,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,33.3,622,592,30,11,0,1
+2026-04-02,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,34.5,404,370,34,20,0,1
+2026-04-02,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,34.5,720,671,49,33,0,1
+2026-04-02,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,34.5,480,444,36,22,0,1
+2026-04-03,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,34.3,273,259,14,8,0,1
+2026-04-03,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,34.3,573,494,79,44,0,1
+2026-04-03,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,34.3,526,471,55,20,0,1
+2026-04-04,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,32.0,263,230,33,18,0,1
+2026-04-04,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,32.0,485,438,47,26,0,1
+2026-04-04,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,32.0,529,431,98,32,0,1
+2026-04-05,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,33.3,260,235,25,12,0,1
+2026-04-05,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,33.3,384,356,28,19,0,1
+2026-04-05,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,33.3,526,464,62,20,0,1
+2026-04-06,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,33.0,391,355,36,20,0,1
+2026-04-06,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,33.0,755,696,59,39,0,1
+2026-04-06,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,33.0,533,457,76,49,0,1
+2026-04-07,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,clear,29.8,333,303,30,13,0,1
+2026-04-07,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,clear,29.8,576,505,71,28,0,1
+2026-04-07,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,clear,29.8,612,553,59,26,0,1
+2026-04-08,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,sports_meet,clear,28.1,346,334,12,7,0,1
+2026-04-08,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,sports_meet,clear,28.1,710,672,38,16,0,1
+2026-04-08,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,sports_meet,clear,28.1,647,600,47,30,0,1
+2026-04-09,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,34.2,373,336,37,18,0,1
+2026-04-09,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,34.2,541,517,24,11,0,1
+2026-04-09,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,34.2,627,588,39,24,0,1
+2026-04-10,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,exam_week,clear,33.6,423,367,56,29,0,1
+2026-04-10,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,exam_week,clear,33.6,782,683,99,52,0,1
+2026-04-10,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,exam_week,clear,33.6,466,415,51,30,0,1
+2026-04-11,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,exam_week,clear,30.1,272,229,43,25,0,1
+2026-04-11,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,exam_week,clear,30.1,475,425,50,28,0,1
+2026-04-11,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,exam_week,clear,30.1,472,418,54,36,0,1
+2026-04-12,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,exam_week,clear,31.8,278,229,49,20,0,1
+2026-04-12,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,exam_week,clear,31.8,549,467,82,40,0,1
+2026-04-12,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,exam_week,clear,31.8,521,463,58,26,0,1
+2026-04-13,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,exam_week,clear,32.4,400,363,37,17,0,1
+2026-04-13,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,exam_week,clear,32.4,708,648,60,32,0,1
+2026-04-13,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,exam_week,clear,32.4,735,662,73,30,0,1
+2026-04-14,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,exam_week,clear,32.2,419,401,18,7,0,1
+2026-04-14,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,exam_week,clear,32.2,799,755,44,29,0,1
+2026-04-14,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,exam_week,clear,32.2,510,450,60,31,0,1
+2026-04-15,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,exam_week,clear,34.2,388,332,56,18,0,1
+2026-04-15,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,exam_week,clear,34.2,627,573,54,35,0,1
+2026-04-15,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,exam_week,clear,34.2,605,587,18,10,0,1
+2026-04-16,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,exam_week,clear,29.7,377,336,41,26,0,1
+2026-04-16,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,exam_week,clear,29.7,724,672,52,24,0,1
+2026-04-16,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,exam_week,clear,29.7,651,595,56,26,0,1
+2026-04-17,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,exam_week,clear,30.4,417,354,63,23,0,1
+2026-04-17,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,exam_week,clear,30.4,638,550,88,49,0,1
+2026-04-17,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,exam_week,clear,30.4,771,646,125,54,0,1
+2026-04-18,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,exam_week,clear,36.7,341,300,41,18,0,1
+2026-04-18,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,exam_week,clear,36.7,671,577,94,31,0,1
+2026-04-18,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,exam_week,clear,36.7,435,388,47,27,0,1
+2026-04-19,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,exam_week,clear,33.1,255,216,39,21,0,1
+2026-04-19,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,exam_week,clear,33.1,468,401,67,40,0,1
+2026-04-19,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,exam_week,clear,33.1,457,393,64,26,0,1
+2026-04-20,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,exam_week,clear,34.9,365,341,24,10,0,1
+2026-04-20,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,exam_week,clear,34.9,697,651,46,15,0,1
+2026-04-20,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,exam_week,clear,34.9,702,645,57,27,0,1
+2026-04-21,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,29.3,352,331,21,11,0,1
+2026-04-21,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,29.3,574,532,42,28,0,1
+2026-04-21,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,29.3,703,631,72,31,0,1
+2026-04-22,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,32.6,368,333,35,18,0,1
+2026-04-22,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,32.6,770,696,74,27,0,1
+2026-04-22,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,32.6,512,460,52,24,0,1
+2026-04-23,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,32.7,346,295,51,26,0,1
+2026-04-23,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,32.7,604,527,77,40,0,1
+2026-04-23,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,32.7,546,513,33,22,0,1
+2026-04-24,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,34.2,360,290,70,42,0,1
+2026-04-24,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,34.2,581,508,73,35,0,1
+2026-04-24,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,34.2,606,543,63,32,0,1
+2026-04-25,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,32.2,298,243,55,27,0,1
+2026-04-25,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,32.2,479,415,64,30,0,1
+2026-04-25,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,32.2,484,426,58,27,0,1
+2026-04-26,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,26.5,273,244,29,19,0,1
+2026-04-26,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,26.5,539,463,76,33,0,1
+2026-04-26,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,26.5,319,274,45,22,0,1
+2026-04-27,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,31.7,319,296,23,12,0,1
+2026-04-27,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,31.7,599,532,67,24,0,1
+2026-04-27,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,31.7,529,490,39,24,0,1
+2026-04-28,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,31.1,331,307,24,9,0,1
+2026-04-28,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,31.1,659,611,48,20,0,1
+2026-04-28,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,31.1,629,585,44,23,0,1
+2026-04-29,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,30.9,366,331,35,17,0,1
+2026-04-29,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,30.9,609,579,30,17,0,1
+2026-04-29,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,30.9,692,627,65,21,0,1
+2026-04-30,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,29.4,408,363,45,17,0,1
+2026-04-30,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,29.4,714,658,56,37,0,1
+2026-04-30,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,29.4,427,389,38,19,0,1
+2026-05-01,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,37.2,313,284,29,17,0,1
+2026-05-01,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,37.2,567,484,83,40,0,1
+2026-05-01,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,37.2,574,497,77,44,0,1
+2026-05-02,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,37.2,256,231,25,8,0,1
+2026-05-02,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,37.2,492,425,67,36,0,1
+2026-05-02,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,37.2,441,393,48,19,0,1
+2026-05-03,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,35.2,270,234,36,23,0,1
+2026-05-03,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,35.2,466,401,65,41,0,1
+2026-05-03,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,35.2,459,414,45,17,0,1
+2026-05-04,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,35.3,354,328,26,15,0,1
+2026-05-04,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,35.3,791,721,70,38,0,1
+2026-05-04,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,35.3,509,450,59,31,0,1
+2026-05-05,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,extreme_heat,41.3,328,293,35,21,0,1
+2026-05-05,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,extreme_heat,41.3,543,462,81,27,0,1
+2026-05-05,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,extreme_heat,41.3,563,503,60,25,0,1
+2026-05-06,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,36.9,330,304,26,9,0,1
+2026-05-06,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,36.9,664,618,46,30,0,1
+2026-05-06,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,36.9,562,523,39,16,0,1
+2026-05-07,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,36.7,397,343,54,30,0,1
+2026-05-07,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,36.7,591,546,45,20,0,1
+2026-05-07,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,36.7,651,585,66,29,0,1
+2026-05-08,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,34.4,360,309,51,30,0,1
+2026-05-08,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,34.4,690,614,76,38,0,1
+2026-05-08,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,34.4,484,392,92,53,0,1
+2026-05-09,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,extreme_heat,38.7,273,224,49,24,0,1
+2026-05-09,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,extreme_heat,38.7,420,361,59,35,0,1
+2026-05-09,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,extreme_heat,38.7,431,382,49,31,0,1
+2026-05-10,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,clear,37.4,240,201,39,13,0,1
+2026-05-10,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,clear,37.4,522,443,79,46,0,1
+2026-05-10,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,clear,37.4,417,375,42,26,0,1
+2026-05-11,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,extreme_heat,38.1,337,331,6,3,0,1
+2026-05-11,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,extreme_heat,38.1,541,512,29,12,0,1
+2026-05-11,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,extreme_heat,38.1,628,583,45,19,0,1
+2026-05-12,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,37.1,413,381,32,13,0,1
+2026-05-12,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,37.1,736,699,37,24,0,1
+2026-05-12,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,37.1,525,455,70,46,0,1
+2026-05-13,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,32.9,320,287,33,15,0,1
+2026-05-13,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,32.9,609,541,68,43,0,1
+2026-05-13,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,32.9,547,501,46,18,0,1
+2026-05-14,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,extreme_heat,40.2,331,301,30,13,0,1
+2026-05-14,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,extreme_heat,40.2,616,549,67,31,0,1
+2026-05-14,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,extreme_heat,40.2,621,579,42,14,0,1
+2026-05-15,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,extreme_heat,39.3,360,309,51,21,0,1
+2026-05-15,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,extreme_heat,39.3,547,478,69,47,0,1
+2026-05-15,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,extreme_heat,39.3,643,566,77,27,0,1
+2026-05-16,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,extreme_heat,40.1,312,264,48,29,0,1
+2026-05-16,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,extreme_heat,40.1,547,478,69,35,0,1
+2026-05-16,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,extreme_heat,40.1,372,331,41,25,0,1
+2026-05-17,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,36.1,251,195,56,30,0,1
+2026-05-17,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,36.1,429,387,42,16,0,1
+2026-05-17,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,36.1,457,377,80,46,0,1
+2026-05-18,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,extreme_heat,38.5,340,334,6,3,0,1
+2026-05-18,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,extreme_heat,38.5,641,586,55,31,0,1
+2026-05-18,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,extreme_heat,38.5,626,555,71,35,0,1
+2026-05-19,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,extreme_heat,39.0,391,368,23,10,0,1
+2026-05-19,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,extreme_heat,39.0,543,509,34,23,0,1
+2026-05-19,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,extreme_heat,39.0,653,626,27,13,0,1
+2026-05-20,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,36.8,363,337,26,12,0,1
+2026-05-20,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,36.8,813,728,85,39,0,1
+2026-05-20,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,36.8,527,458,69,29,0,1
+2026-05-21,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,37.1,283,268,15,5,0,1
+2026-05-21,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,37.1,563,500,63,39,0,1
+2026-05-21,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,37.1,544,514,30,12,0,1
+2026-05-22,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,31.0,322,273,49,21,0,1
+2026-05-22,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,31.0,643,558,85,29,0,1
+2026-05-22,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,31.0,631,543,88,49,0,1
+2026-05-23,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,extreme_heat,38.3,293,256,37,20,0,1
+2026-05-23,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,extreme_heat,38.3,472,394,78,37,0,1
+2026-05-23,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,extreme_heat,38.3,529,456,73,25,0,1
+2026-05-24,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,35.1,301,242,59,29,0,1
+2026-05-24,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,35.1,586,499,87,50,0,1
+2026-05-24,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,35.1,350,302,48,15,0,1
+2026-05-25,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,extreme_heat,42.5,327,300,27,17,0,1
+2026-05-25,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,extreme_heat,42.5,497,435,62,36,0,1
+2026-05-25,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,extreme_heat,42.5,572,514,58,27,0,1
+2026-05-26,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,35.9,333,304,29,18,0,1
+2026-05-26,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,35.9,642,605,37,20,0,1
+2026-05-26,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,35.9,590,546,44,17,0,1
+2026-05-27,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,36.9,368,346,22,8,0,1
+2026-05-27,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,36.9,546,515,31,13,0,1
+2026-05-27,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,36.9,623,603,20,9,0,1
+2026-05-28,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,extreme_heat,39.3,362,336,26,11,0,1
+2026-05-28,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,extreme_heat,39.3,673,619,54,22,0,1
+2026-05-28,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,extreme_heat,39.3,500,446,54,31,0,1
+2026-05-29,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,extreme_heat,39.7,311,245,66,37,0,1
+2026-05-29,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,extreme_heat,39.7,454,411,43,18,0,1
+2026-05-29,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,extreme_heat,39.7,557,468,89,41,0,1
+2026-05-30,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,35.2,271,253,18,9,0,1
+2026-05-30,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,35.2,486,429,57,22,0,1
+2026-05-30,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,35.2,480,399,81,36,0,1
+2026-05-31,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,37.7,307,262,45,28,0,1
+2026-05-31,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,37.7,454,402,52,19,0,1
+2026-05-31,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,37.7,469,410,59,32,0,1
+2026-06-01,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,extreme_heat,39.7,276,256,20,11,0,1
+2026-06-01,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,extreme_heat,39.7,464,459,5,3,0,1
+2026-06-01,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,extreme_heat,39.7,349,332,17,10,0,1
+2026-06-02,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,extreme_heat,40.1,203,182,21,11,0,1
+2026-06-02,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,extreme_heat,40.1,361,312,49,32,0,1
+2026-06-02,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,extreme_heat,40.1,372,336,36,12,0,1
+2026-06-03,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,35.8,242,224,18,6,0,1
+2026-06-03,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,35.8,472,417,55,20,0,1
+2026-06-03,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,35.8,369,354,15,7,0,1
+2026-06-04,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,extreme_heat,38.7,274,243,31,21,0,1
+2026-06-04,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,extreme_heat,38.7,416,387,29,16,0,1
+2026-06-04,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,extreme_heat,38.7,442,400,42,17,0,1
+2026-06-05,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,extreme_heat,40.4,264,237,27,11,0,1
+2026-06-05,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,extreme_heat,40.4,480,432,48,18,0,1
+2026-06-05,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,extreme_heat,40.4,336,281,55,36,0,1
+2026-06-06,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,1,none,extreme_heat,40.7,152,116,36,16,0,1
+2026-06-06,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,1,none,extreme_heat,40.7,258,197,61,34,0,1
+2026-06-06,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,1,none,extreme_heat,40.7,278,242,36,13,0,1
+2026-06-07,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,1,none,clear,34.9,126,126,0,0,0,1
+2026-06-07,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,1,none,clear,34.9,313,250,63,26,0,1
+2026-06-07,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,1,none,clear,34.9,249,201,48,25,0,1
+2026-06-08,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,37.4,270,237,33,18,0,1
+2026-06-08,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,37.4,420,395,25,15,0,1
+2026-06-08,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,37.4,402,402,0,0,2,1
+2026-06-09,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,extreme_heat,38.8,271,243,28,10,0,1
+2026-06-09,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,extreme_heat,38.8,436,396,40,13,0,1
+2026-06-09,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,extreme_heat,38.8,339,302,37,22,0,1
+2026-06-10,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,extreme_heat,44.2,239,200,39,19,0,1
+2026-06-10,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,extreme_heat,44.2,379,321,58,25,0,1
+2026-06-10,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,extreme_heat,44.2,385,360,25,13,0,1
+2026-06-11,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,35.1,234,228,6,3,0,1
+2026-06-11,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,35.1,467,429,38,19,0,1
+2026-06-11,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,35.1,381,353,28,18,0,1
+2026-06-12,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,extreme_heat,39.0,209,192,17,9,0,1
+2026-06-12,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,extreme_heat,39.0,338,301,37,17,0,1
+2026-06-12,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,extreme_heat,39.0,449,386,63,42,0,1
+2026-06-13,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,1,none,extreme_heat,42.1,175,137,38,14,0,1
+2026-06-13,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,1,none,extreme_heat,42.1,365,309,56,37,0,1
+2026-06-13,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,1,none,extreme_heat,42.1,201,154,47,22,0,1
+2026-06-14,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,1,none,extreme_heat,40.6,173,114,59,25,0,1
+2026-06-14,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,1,none,extreme_heat,40.6,198,165,33,14,0,1
+2026-06-14,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,1,none,extreme_heat,40.6,311,237,74,42,0,1
+2026-06-15,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,extreme_heat,40.5,216,216,0,0,2,1
+2026-06-15,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,extreme_heat,40.5,404,376,28,11,0,1
+2026-06-15,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,extreme_heat,40.5,459,413,46,21,0,1
+2026-06-16,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,extreme_heat,39.2,234,209,25,11,0,1
+2026-06-16,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,extreme_heat,39.2,365,353,12,8,0,1
+2026-06-16,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,extreme_heat,39.2,457,402,55,18,0,1
+2026-06-17,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,extreme_heat,40.2,252,226,26,12,0,1
+2026-06-17,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,extreme_heat,40.2,460,426,34,14,0,1
+2026-06-17,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,extreme_heat,40.2,370,314,56,32,0,1
+2026-06-18,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,extreme_heat,39.4,193,184,9,3,0,1
+2026-06-18,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,extreme_heat,39.4,358,326,32,16,0,1
+2026-06-18,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,extreme_heat,39.4,411,383,28,14,0,1
+2026-06-19,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,extreme_heat,39.0,202,174,28,13,0,1
+2026-06-19,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,extreme_heat,39.0,447,371,76,44,0,1
+2026-06-19,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,extreme_heat,39.0,383,354,29,13,0,1
+2026-06-20,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,1,none,clear,35.8,165,144,21,9,0,1
+2026-06-20,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,1,none,clear,35.8,252,216,36,23,0,1
+2026-06-20,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,1,none,clear,35.8,338,259,79,38,0,1
+2026-06-21,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,1,none,clear,37.1,185,144,41,23,0,1
+2026-06-21,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,1,none,clear,37.1,319,255,64,24,0,1
+2026-06-21,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,1,none,clear,37.1,207,164,43,22,0,1
+2026-06-22,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,35.3,211,188,23,13,0,1
+2026-06-22,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,35.3,387,346,41,15,0,1
+2026-06-22,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,35.3,370,369,1,0,0,1
+2026-06-23,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,extreme_heat,40.6,206,206,0,0,4,1
+2026-06-23,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,extreme_heat,40.6,378,343,35,22,0,1
+2026-06-23,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,extreme_heat,40.6,416,364,52,32,0,1
+2026-06-24,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,35.3,242,239,3,1,0,1
+2026-06-24,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,35.3,413,391,22,10,0,1
+2026-06-24,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,35.3,445,424,21,11,0,1
+2026-06-25,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,extreme_heat,38.6,287,253,34,13,0,1
+2026-06-25,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,extreme_heat,38.6,462,430,32,15,0,1
+2026-06-25,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,extreme_heat,38.6,351,306,45,29,0,1
+2026-06-26,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,extreme_heat,41.2,214,170,44,24,0,1
+2026-06-26,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,extreme_heat,41.2,359,307,52,21,0,1
+2026-06-26,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,extreme_heat,41.2,333,292,41,25,0,1
+2026-06-27,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,1,none,clear,31.1,176,134,42,27,0,1
+2026-06-27,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,1,none,clear,31.1,303,242,61,29,0,1
+2026-06-27,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,1,none,clear,31.1,285,227,58,28,0,1
+2026-06-28,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,1,none,extreme_heat,42.4,168,135,33,13,0,1
+2026-06-28,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,1,none,extreme_heat,42.4,284,249,35,19,0,1
+2026-06-28,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,1,none,extreme_heat,42.4,261,213,48,32,0,1
+2026-06-29,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,extreme_heat,38.8,269,234,35,21,0,1
+2026-06-29,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,extreme_heat,38.8,474,418,56,24,0,1
+2026-06-29,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,extreme_heat,38.8,333,286,47,19,0,1
+2026-06-30,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,extreme_heat,40.1,208,193,15,7,0,1
+2026-06-30,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,extreme_heat,40.1,374,321,53,20,0,1
+2026-06-30,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,extreme_heat,40.1,368,348,20,11,0,1
+2026-07-01,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,rainy,31.5,317,312,5,3,0,1
+2026-07-01,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,rainy,31.5,695,656,39,23,0,1
+2026-07-01,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,rainy,31.5,636,591,45,23,0,1
+2026-07-02,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,33.9,382,351,31,12,0,1
+2026-07-02,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,33.9,659,606,53,22,0,1
+2026-07-02,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,33.9,627,586,41,23,0,1
+2026-07-03,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,35.8,373,304,69,25,0,1
+2026-07-03,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,35.8,716,629,87,59,0,1
+2026-07-03,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,35.8,462,389,73,49,0,1
+2026-07-04,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,rainy,31.3,209,192,17,11,0,1
+2026-07-04,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,rainy,31.3,454,406,48,27,0,1
+2026-07-04,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,rainy,31.3,475,422,53,29,0,1
+2026-07-05,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,rainy,33.4,201,196,5,2,0,1
+2026-07-05,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,rainy,33.4,525,450,75,41,0,1
+2026-07-05,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,rainy,33.4,463,409,54,32,0,1
+2026-07-06,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,31.9,356,323,33,21,0,1
+2026-07-06,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,31.9,573,522,51,19,0,1
+2026-07-06,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,31.9,665,620,45,18,0,1
+2026-07-07,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,rainy,34.5,386,356,30,12,0,1
+2026-07-07,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,rainy,34.5,820,766,54,37,0,1
+2026-07-07,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,rainy,34.5,485,410,75,50,0,1
+2026-07-08,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,32.2,306,256,50,17,0,1
+2026-07-08,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,32.2,562,496,66,43,0,1
+2026-07-08,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,32.2,588,530,58,27,0,1
+2026-07-09,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,32.4,316,309,7,4,0,1
+2026-07-09,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,32.4,567,534,33,21,0,1
+2026-07-09,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,32.4,571,540,31,11,0,1
+2026-07-10,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,rainy,35.7,303,282,21,14,0,1
+2026-07-10,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,rainy,35.7,628,534,94,52,0,1
+2026-07-10,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,rainy,35.7,664,579,85,30,0,1
+2026-07-11,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,rainy,33.7,291,256,35,21,0,1
+2026-07-11,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,rainy,33.7,594,522,72,27,0,1
+2026-07-11,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,rainy,33.7,414,352,62,27,0,1
+2026-07-12,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,32.5,232,206,26,9,0,1
+2026-07-12,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,32.5,433,364,69,40,0,1
+2026-07-12,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,32.5,416,388,28,10,0,1
+2026-07-13,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,36.6,332,319,13,8,0,1
+2026-07-13,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,36.6,704,652,52,17,0,1
+2026-07-13,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,36.6,559,520,39,25,0,1
+2026-07-14,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,35.1,333,331,2,1,0,1
+2026-07-14,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,35.1,578,554,24,14,0,1
+2026-07-14,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,35.1,691,637,54,19,0,1
+2026-07-15,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,33.7,391,366,25,16,0,1
+2026-07-15,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,33.7,740,702,38,23,0,1
+2026-07-15,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,33.7,474,417,57,29,0,1
+2026-07-16,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,rainy,32.8,313,275,38,25,0,1
+2026-07-16,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,rainy,32.8,643,542,101,47,0,1
+2026-07-16,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,rainy,32.8,567,515,52,21,0,1
+2026-07-17,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,rainy,31.9,322,278,44,29,0,1
+2026-07-17,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,rainy,31.9,672,572,100,67,0,1
+2026-07-17,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,rainy,31.9,635,543,92,29,0,1
+2026-07-18,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,33.0,275,247,28,18,0,1
+2026-07-18,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,33.0,484,412,72,48,0,1
+2026-07-18,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,33.0,586,512,74,25,0,1
+2026-07-19,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,35.1,283,253,30,18,0,1
+2026-07-19,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,35.1,577,495,82,42,0,1
+2026-07-19,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,35.1,350,298,52,21,0,1
+2026-07-20,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,rainy,31.9,286,272,14,9,0,1
+2026-07-20,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,rainy,31.9,612,549,63,42,0,1
+2026-07-20,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,rainy,31.9,629,568,61,35,0,1
+2026-07-21,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,rainy,36.0,338,302,36,24,0,1
+2026-07-21,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,rainy,36.0,687,627,60,34,0,1
+2026-07-21,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,rainy,36.0,635,565,70,23,0,1
+2026-07-22,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,rainy,31.7,359,340,19,9,0,1
+2026-07-22,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,rainy,31.7,626,579,47,28,0,1
+2026-07-22,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,rainy,31.7,725,662,63,22,0,1
+2026-07-23,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,34.6,371,355,16,8,0,1
+2026-07-23,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,34.6,732,662,70,46,0,1
+2026-07-23,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,34.6,463,419,44,19,0,1
+2026-07-24,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,32.5,277,226,51,21,0,1
+2026-07-24,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,32.5,547,495,52,23,0,1
+2026-07-24,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,32.5,557,494,63,42,0,1
+2026-07-25,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,31.5,314,255,59,38,0,1
+2026-07-25,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,31.5,533,469,64,36,0,1
+2026-07-25,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,31.5,482,428,54,31,0,1
+2026-07-26,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,30.8,243,237,6,3,0,1
+2026-07-26,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,30.8,424,357,67,24,0,1
+2026-07-26,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,30.8,478,420,58,31,0,1
+2026-07-27,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,34.7,367,357,10,5,0,1
+2026-07-27,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,34.7,821,746,75,45,0,1
+2026-07-27,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,34.7,528,453,75,40,0,1
+2026-07-28,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,clear,37.8,317,290,27,18,0,1
+2026-07-28,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,clear,37.8,592,517,75,27,0,1
+2026-07-28,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,clear,37.8,542,516,26,14,0,1
+2026-07-29,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,31.1,337,330,7,4,0,1
+2026-07-29,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,31.1,666,612,54,19,0,1
+2026-07-29,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,31.1,605,568,37,20,0,1
+2026-07-30,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,rainy,31.9,330,300,30,10,0,1
+2026-07-30,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,rainy,31.9,617,585,32,16,0,1
+2026-07-30,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,rainy,31.9,649,613,36,13,0,1
+2026-07-31,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,35.1,393,327,66,33,0,1
+2026-07-31,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,35.1,764,660,104,56,0,1
+2026-07-31,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,35.1,433,388,45,30,0,1
+2026-08-01,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,clear,33.5,261,228,33,17,0,1
+2026-08-01,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,clear,33.5,454,394,60,29,0,1
+2026-08-01,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,clear,33.5,418,355,63,30,0,1
+2026-08-02,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,clear,34.7,257,227,30,12,0,1
+2026-08-02,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,clear,34.7,527,462,65,36,0,1
+2026-08-02,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,clear,34.7,483,411,72,33,0,1
+2026-08-03,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,rainy,33.4,349,329,20,8,0,1
+2026-08-03,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,rainy,33.4,612,578,34,12,0,1
+2026-08-03,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,rainy,33.4,702,663,39,13,0,1
+2026-08-04,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,rainy,29.7,380,356,24,8,0,1
+2026-08-04,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,rainy,29.7,792,747,45,23,0,1
+2026-08-04,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,rainy,29.7,507,443,64,24,0,1
+2026-08-05,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,30.1,328,283,45,21,0,1
+2026-08-05,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,30.1,563,502,61,24,0,1
+2026-08-05,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,30.1,570,525,45,27,0,1
+2026-08-06,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,32.6,356,324,32,15,0,1
+2026-08-06,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,32.6,702,652,50,18,0,1
+2026-08-06,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,32.6,607,560,47,30,0,1
+2026-08-07,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,rainy,35.8,353,290,63,40,0,1
+2026-08-07,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,rainy,35.8,625,547,78,34,0,1
+2026-08-07,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,rainy,35.8,675,595,80,31,0,1
+2026-08-08,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,33.4,307,261,46,16,0,1
+2026-08-08,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,33.4,568,476,92,52,0,1
+2026-08-08,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,33.4,442,358,84,47,0,1
+2026-08-09,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,rainy,35.0,206,197,9,4,0,1
+2026-08-09,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,rainy,35.0,488,411,77,36,0,1
+2026-08-09,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,rainy,35.0,420,376,44,17,0,1
+2026-08-10,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,34.6,320,298,22,7,0,1
+2026-08-10,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,34.6,630,588,42,26,0,1
+2026-08-10,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,34.6,589,553,36,17,0,1
+2026-08-11,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,35.2,337,323,14,7,0,1
+2026-08-11,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,35.2,615,562,53,29,0,1
+2026-08-11,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,35.2,584,559,25,12,0,1
+2026-08-12,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,33.9,357,345,12,8,0,1
+2026-08-12,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,33.9,721,662,59,33,0,1
+2026-08-12,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,33.9,471,407,64,34,0,1
+2026-08-13,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,31.9,314,277,37,17,0,1
+2026-08-13,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,31.9,546,488,58,19,0,1
+2026-08-13,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,31.9,547,511,36,13,0,1
+2026-08-14,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,rainy,32.6,308,271,37,22,0,1
+2026-08-14,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,rainy,32.6,655,553,102,45,0,1
+2026-08-14,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,rainy,32.6,622,532,90,35,0,1
+2026-08-15,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,1,none,rainy,32.4,180,170,10,6,0,1
+2026-08-15,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,1,none,rainy,32.4,249,207,42,17,0,1
+2026-08-15,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,1,none,rainy,32.4,306,247,59,40,0,1
+2026-08-16,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,29.2,325,269,56,23,0,1
+2026-08-16,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,29.2,561,503,58,19,0,1
+2026-08-16,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,29.2,354,306,48,22,0,1
+2026-08-17,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,32.4,357,304,53,29,0,1
+2026-08-17,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,32.4,545,475,70,23,0,1
+2026-08-17,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,32.4,590,560,30,13,0,1
+2026-08-18,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,31.3,342,311,31,13,0,1
+2026-08-18,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,31.3,656,601,55,18,0,1
+2026-08-18,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,31.3,587,545,42,24,0,1
+2026-08-19,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,rainy,33.1,324,324,0,0,1,1
+2026-08-19,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,rainy,33.1,635,585,50,28,0,1
+2026-08-19,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,rainy,33.1,705,643,62,38,0,1
+2026-08-20,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,32.5,372,347,25,14,0,1
+2026-08-20,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,32.5,723,688,35,14,0,1
+2026-08-20,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,32.5,479,408,71,44,0,1
+2026-08-21,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,rainy,31.9,292,243,49,17,0,1
+2026-08-21,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,rainy,31.9,579,498,81,37,0,1
+2026-08-21,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,rainy,31.9,588,519,69,27,0,1
+2026-08-22,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,33.0,291,246,45,30,0,1
+2026-08-22,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,33.0,560,463,97,40,0,1
+2026-08-22,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,33.0,478,416,62,22,0,1
+2026-08-23,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,36.2,274,273,1,0,0,1
+2026-08-23,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,36.2,419,368,51,20,0,1
+2026-08-23,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,36.2,462,427,35,14,0,1
+2026-08-24,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,29.4,415,362,53,17,0,1
+2026-08-24,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,29.4,757,696,61,22,0,1
+2026-08-24,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,29.4,473,392,81,51,0,1
+2026-08-25,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,rainy,33.0,342,294,48,20,0,1
+2026-08-25,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,rainy,33.0,596,537,59,28,0,1
+2026-08-25,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,rainy,33.0,535,527,8,3,0,1
+2026-08-26,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,26.3,335,303,32,14,0,1
+2026-08-26,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,26.3,707,628,79,42,0,1
+2026-08-26,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,26.3,575,530,45,28,0,1
+2026-08-27,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,none,clear,27.0,363,330,33,15,0,1
+2026-08-27,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,none,clear,27.0,579,548,31,19,0,1
+2026-08-27,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,none,clear,27.0,630,582,48,20,0,1
+2026-08-28,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,33.1,386,336,50,31,0,1
+2026-08-28,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,33.1,722,616,106,61,0,1
+2026-08-28,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,33.1,429,380,49,32,0,1
+2026-08-29,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,clear,30.1,282,219,63,32,0,1
+2026-08-29,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,clear,30.1,432,393,39,23,0,1
+2026-08-29,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,clear,30.1,419,389,30,17,0,1
+2026-08-30,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,rainy,31.7,235,206,29,10,0,1
+2026-08-30,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,rainy,31.7,537,470,67,38,0,1
+2026-08-30,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,rainy,31.7,469,421,48,32,0,1
+2026-08-31,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,rainy,27.3,309,302,7,3,0,1
+2026-08-31,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,rainy,27.3,640,603,37,24,0,1
+2026-08-31,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,rainy,27.3,742,679,63,43,0,1
+2026-09-01,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,32.0,368,324,44,21,0,1
+2026-09-01,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,32.0,755,682,73,33,0,1
+2026-09-01,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,32.0,515,447,68,40,0,1
+2026-09-02,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,30.9,358,299,59,35,0,1
+2026-09-02,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,30.9,600,518,82,55,0,1
+2026-09-02,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,30.9,534,512,22,12,0,1
+2026-09-03,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,30.9,328,317,11,6,0,1
+2026-09-03,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,30.9,655,599,56,21,0,1
+2026-09-03,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,30.9,612,562,50,21,0,1
+2026-09-04,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,0,none,clear,29.1,359,298,61,40,0,1
+2026-09-04,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,0,none,clear,29.1,549,491,58,30,0,1
+2026-09-04,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,0,none,clear,29.1,623,552,71,26,0,1
+2026-09-05,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,30.5,292,266,26,11,0,1
+2026-09-05,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,30.5,575,512,63,21,0,1
+2026-09-05,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,30.5,357,295,62,36,0,1
+2026-09-06,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,32.5,215,215,0,0,6,1
+2026-09-06,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,32.5,470,396,74,30,0,1
+2026-09-06,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,32.5,386,348,38,13,0,1
+2026-09-07,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,30.8,342,315,27,17,0,1
+2026-09-07,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,30.8,636,592,44,24,0,1
+2026-09-07,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,30.8,622,567,55,36,0,1
+2026-09-08,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,29.9,317,317,0,0,6,1
+2026-09-08,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,29.9,551,537,14,7,0,1
+2026-09-08,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,29.9,626,578,48,30,0,1
+2026-09-09,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,31.3,421,378,43,21,0,1
+2026-09-09,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,31.3,749,681,68,36,0,1
+2026-09-09,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,31.3,515,445,70,27,0,1
+2026-09-10,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,28.4,325,301,24,13,0,1
+2026-09-10,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,28.4,613,523,90,40,0,1
+2026-09-10,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,28.4,579,516,63,25,0,1
+2026-09-11,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,33.6,298,271,27,10,0,1
+2026-09-11,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,33.6,676,581,95,41,0,1
+2026-09-11,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,33.6,580,484,96,44,0,1
+2026-09-12,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,none,clear,31.3,275,237,38,20,0,1
+2026-09-12,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,none,clear,31.3,498,417,81,46,0,1
+2026-09-12,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,none,clear,31.3,521,440,81,27,0,1
+2026-09-13,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,31.2,274,245,29,13,0,1
+2026-09-13,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,31.2,517,467,50,17,0,1
+2026-09-13,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,31.2,367,312,55,36,0,1
+2026-09-14,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,29.6,360,309,51,28,0,1
+2026-09-14,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,29.6,559,499,60,23,0,1
+2026-09-14,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,29.6,514,495,19,11,0,1
+2026-09-15,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,32.3,311,302,9,4,0,1
+2026-09-15,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,32.3,622,603,19,7,0,1
+2026-09-15,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,32.3,624,589,35,17,0,1
+2026-09-16,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,33.3,360,338,22,14,0,1
+2026-09-16,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,33.3,634,585,49,30,0,1
+2026-09-16,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,33.3,636,605,31,13,0,1
+2026-09-17,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",3,0,none,clear,32.1,366,344,22,8,0,1
+2026-09-17,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",3,0,none,clear,32.1,728,644,84,36,0,1
+2026-09-17,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",3,0,none,clear,32.1,466,416,50,26,0,1
+2026-09-18,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",4,0,none,clear,35.3,316,272,44,28,0,1
+2026-09-18,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",4,0,none,clear,35.3,508,447,61,22,0,1
+2026-09-18,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",4,0,none,clear,35.3,543,477,66,43,0,1
+2026-09-19,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",5,0,none,clear,32.2,275,241,34,20,0,1
+2026-09-19,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",5,0,none,clear,32.2,530,468,62,23,0,1
+2026-09-19,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",5,0,none,clear,32.2,485,430,55,22,0,1
+2026-09-20,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",6,0,none,clear,24.9,285,231,54,34,0,1
+2026-09-20,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",6,0,none,clear,24.9,493,418,75,38,0,1
+2026-09-20,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",6,0,none,clear,24.9,507,442,65,44,0,1
+2026-09-21,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",0,0,none,clear,29.1,423,373,50,19,0,1
+2026-09-21,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",0,0,none,clear,29.1,673,640,33,21,0,1
+2026-09-21,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",0,0,none,clear,29.1,465,411,54,22,0,1
+2026-09-22,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",1,0,none,clear,30.7,356,285,71,40,0,1
+2026-09-22,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",1,0,none,clear,30.7,577,508,69,27,0,1
+2026-09-22,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",1,0,none,clear,30.7,547,510,37,17,0,1
+2026-09-23,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",2,0,none,clear,30.4,379,337,42,22,0,1
+2026-09-23,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",2,0,none,clear,30.4,657,611,46,28,0,1
+2026-09-23,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",2,0,none,clear,30.4,625,583,42,20,0,1
+2026-09-24,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",3,0,campus_hackathon_fest,clear,31.2,449,400,49,20,0,1
+2026-09-24,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",3,0,campus_hackathon_fest,clear,31.2,742,684,58,39,0,1
+2026-09-24,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",3,0,campus_hackathon_fest,clear,31.2,789,725,64,35,0,1
+2026-09-25,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",4,0,none,clear,27.2,407,337,70,43,0,1
+2026-09-25,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",4,0,none,clear,27.2,724,634,90,45,0,1
+2026-09-25,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",4,0,none,clear,27.2,436,394,42,20,0,1
+2026-09-26,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",5,0,none,clear,29.5,283,220,63,22,0,1
+2026-09-26,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",5,0,none,clear,29.5,450,380,70,30,0,1
+2026-09-26,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",5,0,none,clear,29.5,476,387,89,43,0,1
+2026-09-27,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",6,0,none,clear,31.3,263,215,48,30,0,1
+2026-09-27,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",6,0,none,clear,31.3,491,456,35,17,0,1
+2026-09-27,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",6,0,none,clear,31.3,456,410,46,21,0,1
+2026-09-28,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",0,0,none,clear,31.3,386,347,39,14,0,1
+2026-09-28,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",0,0,none,clear,31.3,600,546,54,21,0,1
+2026-09-28,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",0,0,none,clear,31.3,698,638,60,33,0,1
+2026-09-29,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",1,0,none,clear,27.9,369,353,16,6,0,1
+2026-09-29,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",1,0,none,clear,27.9,747,703,44,29,0,1
+2026-09-29,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",1,0,none,clear,27.9,473,418,55,26,0,1
+2026-09-30,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",2,0,none,clear,26.5,348,296,52,32,0,1
+2026-09-30,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",2,0,none,clear,26.5,600,527,73,31,0,1
+2026-09-30,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",2,0,none,clear,26.5,556,529,27,18,0,1
+2026-10-01,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",3,0,none,clear,29.9,323,311,12,7,0,1
+2026-10-01,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",3,0,none,clear,29.9,631,580,51,33,0,1
+2026-10-01,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",3,0,none,clear,29.9,604,557,47,27,0,1
+2026-10-02,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",4,1,none,clear,30.1,226,172,54,35,0,1
+2026-10-02,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",4,1,none,clear,30.1,362,286,76,28,0,1
+2026-10-02,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",4,1,none,clear,30.1,401,333,68,25,0,1
+2026-10-03,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",5,0,none,clear,27.6,297,265,32,18,0,1
+2026-10-03,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",5,0,none,clear,27.6,548,492,56,19,0,1
+2026-10-03,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",5,0,none,clear,27.6,399,344,55,18,0,1
+2026-10-04,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",6,0,none,clear,26.4,189,183,6,4,0,1
+2026-10-04,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",6,0,none,clear,26.4,403,370,33,19,0,1
+2026-10-04,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",6,0,none,clear,26.4,451,389,62,24,0,1
+2026-10-05,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",0,0,none,clear,24.2,275,275,0,0,6,1
+2026-10-05,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",0,0,none,clear,24.2,595,573,22,12,0,1
+2026-10-05,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",0,0,none,clear,24.2,616,563,53,24,0,1
+2026-10-06,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",1,0,none,clear,23.8,343,343,0,0,6,1
+2026-10-06,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",1,0,none,clear,23.8,588,548,40,14,0,1
+2026-10-06,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",1,0,none,clear,23.8,658,614,44,29,0,1
+2026-10-07,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",2,0,none,clear,28.4,393,361,32,18,0,1
+2026-10-07,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",2,0,none,clear,28.4,680,646,34,17,0,1
+2026-10-07,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",2,0,none,clear,28.4,495,436,59,24,0,1
+2026-10-08,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",3,0,none,clear,27.2,339,299,40,15,0,1
+2026-10-08,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",3,0,none,clear,27.2,578,495,83,27,0,1
+2026-10-08,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",3,0,none,clear,27.2,538,502,36,23,0,1
+2026-10-09,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",4,0,none,clear,27.1,318,281,37,19,0,1
+2026-10-09,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",4,0,none,clear,27.1,582,528,54,36,0,1
+2026-10-09,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",4,0,none,clear,27.1,588,520,68,30,0,1
+2026-10-10,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",5,0,campus_hackathon_fest,clear,28.2,359,326,33,15,0,1
+2026-10-10,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",5,0,campus_hackathon_fest,clear,28.2,571,484,87,29,0,1
+2026-10-10,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",5,0,campus_hackathon_fest,clear,28.2,638,559,79,46,0,1
+2026-10-11,breakfast,south_indian_special,"Masala Dosa, Idli, Sambar, Coconut Chutney",6,0,none,clear,27.7,282,248,34,18,0,1
+2026-10-11,lunch,festive_thali,"Shahi Paneer, Dal Makhani, Veg Pulao, Naan, Gulab Jamun",6,0,none,clear,27.7,512,446,66,33,0,1
+2026-10-11,dinner,healthy_millet_bowl,"Jowar Roti, Palak Dal, Lauki Kofta, Warm Milk",6,0,none,clear,27.7,333,268,65,43,0,1
+2026-10-12,breakfast,healthy_millet_bowl,"Ragi Upma, Sprouts Salad, Boiled Eggs/Paneer, Milk",0,0,none,clear,30.0,324,295,29,10,0,1
+2026-10-12,lunch,healthy_millet_bowl,"Bajra Khichdi, Mixed Veg, Dal Tadka, Green Salad",0,0,none,clear,30.0,601,521,80,50,0,1
+2026-10-12,dinner,north_indian_standard,"Chole, Bhature/Roti, Steamed Rice, Mix Veg, Salad",0,0,none,clear,30.0,586,535,51,17,0,1
+2026-10-13,breakfast,continental_fusion,"Veg Sandwich, Poha, Cut Fruits, Coffee",1,0,none,clear,28.2,318,297,21,12,0,1
+2026-10-13,lunch,north_indian_standard,"Rajma Chawal, Roti, Jeera Aloo, Boondi Raita",1,0,none,clear,28.2,612,580,32,21,0,1
+2026-10-13,dinner,continental_fusion,"Veg Hakka Noodles, Manchurian, Fried Rice, Soup",1,0,none,clear,28.2,608,562,46,30,0,1
+2026-10-14,breakfast,north_indian_standard,"Aloo Paratha, Curd, Pickle, Masala Chai",2,0,none,clear,32.8,361,315,46,20,0,1
+2026-10-14,lunch,south_indian_special,"Lemon Rice, Rasam, Vegetable Kurma, Curd Rice, Papad",2,0,none,clear,32.8,594,545,49,18,0,1
+2026-10-14,dinner,festive_thali,"Paneer Butter Masala, Dal Bukhara, Jeera Rice, Kheer",2,0,none,clear,32.8,708,637,71,44,0,1

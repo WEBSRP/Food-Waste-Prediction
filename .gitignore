@@ -1,0 +1,99 @@
+# ==============================================================================
+# AI-Powered Food Waste Prediction and Redistribution Intelligence
+# .gitignore Configuration
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions & build distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets (retain .env.example)
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# Relational database & runtime artifacts
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+data/*.db
+data/food_waste_intelligence.db
+data/test_*.db
+
+# Machine learning model serialized weights & checkpoints
+data/models/*.pkl
+data/models/*.joblib
+*.pkl
+*.joblib
+!data/models/.gitkeep
+
+# Runtime exports & execution logs
+data/exports/*.json
+data/exports/*.csv
+!data/exports/.gitkeep
+!data/exports/demo_scenario_execution_report.json
+
+# Pytest, coverage & code-quality linters
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+.tox/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.directory
+
+# IDEs & code editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit runtime & credentials
+.streamlit/secrets.toml
+
+# System & runtime logs
+*.log
+logs/

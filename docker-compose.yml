@@ -1,0 +1,26 @@
+version: "3.9"
+
+services:
+  backend:
+    build: .
+    container_name: food-waste-backend
+    command: uvicorn backend.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env.example
+    volumes:
+      - ./data:/app/data
+
+  dashboard:
+    build: .
+    container_name: food-waste-dashboard
+    command: streamlit run app/Home.py --server.port 8501 --server.address 0.0.0.0
+    ports:
+      - "8501:8501"
+    environment:
+      - API_BASE_URL=http://backend:8000
+    depends_on:
+      - backend
+    volumes:
+      - ./data:/app/data

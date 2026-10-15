@@ -1,0 +1,375 @@
+{
+  "scenario_status": "COMPLETED_VERIFIED",
+  "step_1_seed_summary": {
+    "seeded_meal_records": 1095,
+    "seeded_recipients": 6,
+    "model_evaluation": {
+      "model_version": "v20261015_033253",
+      "ml_mae": 19.898,
+      "ml_rmse": 25.616,
+      "ml_wape": 4.537,
+      "ml_bias": 2.21,
+      "baseline_mae": 49.023,
+      "baseline_rmse": 63.455,
+      "baseline_wape": 11.178,
+      "baseline_bias": -4.541,
+      "selected_model": "ml_model"
+    },
+    "sample_listings": [
+      "SL-20261014-4D80CD",
+      "SL-20261015-0CEED2",
+      "SL-20261015-0858FF"
+    ]
+  },
+  "step_2_csv_validation": {
+    "is_valid": true,
+    "total_rows": 30,
+    "valid_rows": 30,
+    "duplicate_count": 0,
+    "missing_value_count": 0,
+    "impossible_value_count": 0,
+    "outlier_count": 1,
+    "censored_demand_count": 0,
+    "errors": [],
+    "warnings": [
+      "Inspected demand distribution: 1 extreme demand observation(s) flagged outside 2.0x IQR."
+    ],
+    "summary_stats": {
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-14",
+      "mean_prepared": 499.8,
+      "mean_served": 453.4,
+      "mean_effective_demand": 453.8,
+      "mean_leftover": 46.4,
+      "mean_discarded": 23.1,
+      "by_meal_type": {
+        "breakfast": 305.2,
+        "dinner": 519.6,
+        "lunch": 536.6
+      }
+    }
+  },
+  "step_3_model_evaluation": {
+    "model_version": "v20261015_033301",
+    "model_name": "GradientBoostedRegressionTrees (CPU-Ensemble)",
+    "baseline_name": "SeasonalWeekdayMovingAverage",
+    "train_samples": 895,
+    "eval_samples": 158,
+    "ml_mae": 19.898,
+    "ml_rmse": 25.616,
+    "ml_wape": 4.537,
+    "ml_bias": 2.21,
+    "baseline_mae": 49.023,
+    "baseline_rmse": 63.455,
+    "baseline_wape": 11.178,
+    "baseline_bias": -4.541,
+    "selected_model": "ml_model",
+    "top_features": {
+      "same_weekday_4w_mean": 0.3251,
+      "menu_category_code": 0.227,
+      "rolling_7d_mean": 0.1972,
+      "day_of_week": 0.0998,
+      "is_holiday": 0.042,
+      "lag_1d_demand": 0.0389
+    }
+  },
+  "step_4_tomorrows_forecast": {
+    "forecast_date": "2026-10-16",
+    "meal_type": "lunch",
+    "menu_category": "north_indian_standard",
+    "is_holiday": 0,
+    "special_event": "none",
+    "weather_condition": "clear",
+    "temperature_c": 28.0,
+    "predicted_demand": 511.1,
+    "rounded_operational_demand": 512,
+    "baseline_demand": 487.9,
+    "planning_buffer_portions": 25,
+    "upper_bound_demand": 537,
+    "lower_bound_demand": 487,
+    "model_version": "v20261015_033301",
+    "is_fallback_baseline": false,
+    "contributing_factors": [
+      {
+        "factor": "Same-Weekday 4-Week Demand Baseline",
+        "impact": "474 portions",
+        "detail": "Historical average for lunch on this day of the week over the prior 4 weeks."
+      },
+      {
+        "factor": "Recent 7-Day Rolling Trend",
+        "impact": "514 portions (\u00b140)",
+        "detail": "Recent 7-day consumption mean and volatility for this meal slot."
+      }
+    ],
+    "id": 20
+  },
+  "step_5_6_production_plan_and_surplus": {
+    "predicted_demand": 511.1,
+    "rounded_demand": 512,
+    "planned_production": 640,
+    "recommended_production": 532,
+    "production_capacity": 750,
+    "shortage_risk_tolerance": 0.15,
+    "safety_buffer_portions": 20,
+    "capacity_constrained": false,
+    "unmet_capacity_gap": 0,
+    "expected_surplus_existing_plan": 129,
+    "expected_surplus_recommended_plan": 24,
+    "potential_waste_reduction_portions": 105,
+    "expected_shortage_risk_existing": 0.0,
+    "expected_shortage_risk_recommended": 0.2064,
+    "estimated_savings_inr": 6825.0,
+    "explanation": "Forecast mean demand is 511.1 portions (operational ceiling: 512 portions). Applied a +20 portion safety buffer (target service level 77.2%, \u03c3=25.5) to cap shortage risk at 20.6%. Current plan (640 portions) exceeds recommendation by 108 portions, creating an estimated 129 portions of potential surplus.",
+    "service_date": "2026-10-16",
+    "meal_type": "lunch",
+    "id": 20
+  },
+  "step_7_confirmed_surplus_listing": {
+    "id": 11,
+    "listing_code": "SL-20261015-6906E6",
+    "service_date": "2026-10-15",
+    "meal_type": "lunch",
+    "food_description": "Chole, Jeera Rice & Steamed Roti Batch (Demo Scenario)",
+    "food_category": "cooked_grains_legumes",
+    "initial_quantity_portions": 80,
+    "remaining_quantity_portions": 80,
+    "reserved_quantity_portions": 0,
+    "collected_quantity_portions": 0,
+    "unit": "portions",
+    "preparation_time": "2026-10-15T06:30:00Z",
+    "safe_use_deadline": "2026-12-31T20:30:00Z",
+    "available_from_time": "2026-10-15T09:00:00Z",
+    "pickup_deadline": "2026-12-31T18:00:00Z",
+    "storage_condition": "Hot-held at 64\u00b0C in insulated stainless steel trays",
+    "handling_notes": "Prepared in Central Mess Block A. | Approved: Core temperature verified at 64.5\u00b0C; hygienic seals intact.",
+    "pickup_location": "Galgotias University Central Hostel Mess Block A",
+    "latitude": 28.367,
+    "longitude": 77.541,
+    "safety_approved": 1,
+    "approved_by_user_id": 9,
+    "approved_at": "2026-10-15T03:33:02Z",
+    "status": "AVAILABLE",
+    "is_synthetic": 1,
+    "created_by_user_id": 9,
+    "created_at": "2026-10-15T03:33:02Z",
+    "updated_at": "2026-10-15T03:33:02Z"
+  },
+  "step_8_ranked_recipient_matches": {
+    "eligible_count": 4,
+    "excluded_count": 2,
+    "top_3_matches": [
+      {
+        "recipient_id": 14,
+        "organization_name": "Yamuna Expressway Shelter Home Foundation (Synthetic Demo)",
+        "recipient_type": "shelter_home",
+        "contact_person": "Meera Verma (Synthetic)",
+        "contact_phone": "+91-9800001002",
+        "pickup_address": "Sector 17A, Yamuna Expressway, Gautam Buddha Nagar, UP 203201",
+        "approximate_distance_km": 1.79,
+        "estimated_travel_minutes": 4,
+        "max_capacity_portions": 160,
+        "recommended_allocation_portions": 80,
+        "pickup_window": "09:00\u201321:30",
+        "priority_tier": 1,
+        "match_score": 97.9,
+        "component_scores": {
+          "proximity": 92.8,
+          "capacity_fit": 100.0,
+          "urgency_window": 100.0,
+          "priority_suitability": 100.0
+        },
+        "match_reasons": [
+          "Accepts 'cooked_grains_legumes' and can absorb up to 80 of 80 available portions (max capacity: 160).",
+          "Approximate distance: 1.8 km (~4 min estimated road transit).",
+          "Pickup window (09:00\u201321:30) provides 750 min overlap before deadline.",
+          "Priority Tier 1 verified shelter home."
+        ],
+        "rank": 1
+      },
+      {
+        "recipient_id": 15,
+        "organization_name": "Dankaur Rural Child Nutrition Center (Synthetic Demo)",
+        "recipient_type": "child_welfare_ngo",
+        "contact_person": "Dr. Rajeshwari Nair (Synthetic)",
+        "contact_phone": "+91-9800001003",
+        "pickup_address": "Dankaur Station Road, Gautam Buddha Nagar, UP 203201",
+        "approximate_distance_km": 2.37,
+        "estimated_travel_minutes": 6,
+        "max_capacity_portions": 120,
+        "recommended_allocation_portions": 80,
+        "pickup_window": "08:00\u201319:30",
+        "priority_tier": 1,
+        "match_score": 97.2,
+        "component_scores": {
+          "proximity": 90.5,
+          "capacity_fit": 100.0,
+          "urgency_window": 100.0,
+          "priority_suitability": 100.0
+        },
+        "match_reasons": [
+          "Accepts 'cooked_grains_legumes' and can absorb up to 80 of 80 available portions (max capacity: 120).",
+          "Approximate distance: 2.4 km (~6 min estimated road transit).",
+          "Pickup window (08:00\u201319:30) provides 630 min overlap before deadline.",
+          "Priority Tier 1 verified child welfare ngo."
+        ],
+        "rank": 2
+      },
+      {
+        "recipient_id": 13,
+        "organization_name": "Greater Noida Community Kitchen Trust (Synthetic Demo)",
+        "recipient_type": "community_kitchen",
+        "contact_person": "Aarav Sharma (Synthetic)",
+        "contact_phone": "+91-9800001001",
+        "pickup_address": "Knowledge Park III, Greater Noida, UP 201306",
+        "approximate_distance_km": 12.87,
+        "estimated_travel_minutes": 32,
+        "max_capacity_portions": 220,
+        "recommended_allocation_portions": 80,
+        "pickup_window": "08:00\u201322:00",
+        "priority_tier": 1,
+        "match_score": 84.6,
+        "component_scores": {
+          "proximity": 48.5,
+          "capacity_fit": 100.0,
+          "urgency_window": 100.0,
+          "priority_suitability": 100.0
+        },
+        "match_reasons": [
+          "Accepts 'cooked_grains_legumes' and can absorb up to 80 of 80 available portions (max capacity: 220).",
+          "Approximate distance: 12.9 km (~32 min estimated road transit).",
+          "Pickup window (08:00\u201322:00) provides 780 min overlap before deadline.",
+          "Priority Tier 1 verified community kitchen."
+        ],
+        "rank": 3
+      }
+    ],
+    "excluded_recipients": [
+      {
+        "recipient_id": 17,
+        "organization_name": "Kasna Industrial Worker Meal Bank (Synthetic Demo)",
+        "reasons": [
+          "Does not accept food category 'cooked_grains_legumes'."
+        ]
+      },
+      {
+        "recipient_id": 18,
+        "organization_name": "Unverified Student Volunteer Circle (Synthetic Demo)",
+        "reasons": [
+          "Recipient organization is unverified."
+        ]
+      }
+    ]
+  },
+  "step_9_created_offer": {
+    "id": 5,
+    "offer_code": "OF-11-14-8A84",
+    "listing_id": 11,
+    "recipient_id": 14,
+    "offered_quantity_portions": 80,
+    "accepted_quantity_portions": 0,
+    "collected_quantity_portions": 0,
+    "uncollected_quantity_portions": 0,
+    "match_score": 97.9,
+    "match_reasons_json": "[\"Accepts 'cooked_grains_legumes' and can absorb up to 80 of 80 available portions (max capacity: 160).\", \"Approximate distance: 1.8 km (~4 min estimated road transit).\", \"Pickup window (09:00\\u201321:30) provides 750 min overlap before deadline.\", \"Priority Tier 1 verified shelter home.\"]",
+    "status": "PENDING",
+    "notes": "Ready for pickup at Mess Block A loading bay.",
+    "created_by_user_id": 9,
+    "responded_by_user_id": null,
+    "responded_at": null,
+    "collected_at": null,
+    "created_at": "2026-10-15T03:33:03Z",
+    "updated_at": "2026-10-15T03:33:03Z"
+  },
+  "step_10_recipient_acceptance": {
+    "id": 5,
+    "offer_code": "OF-11-14-8A84",
+    "listing_id": 11,
+    "recipient_id": 14,
+    "offered_quantity_portions": 80,
+    "accepted_quantity_portions": 80,
+    "collected_quantity_portions": 0,
+    "uncollected_quantity_portions": 0,
+    "match_score": 97.9,
+    "match_reasons_json": "[\"Accepts 'cooked_grains_legumes' and can absorb up to 80 of 80 available portions (max capacity: 160).\", \"Approximate distance: 1.8 km (~4 min estimated road transit).\", \"Pickup window (09:00\\u201321:30) provides 750 min overlap before deadline.\", \"Priority Tier 1 verified shelter home.\"]",
+    "status": "ACCEPTED",
+    "notes": "Ready for pickup at Mess Block A loading bay. | Accepted: Accepted by Yamuna Shelter intake coordinator; vehicle arriving in 20 mins.",
+    "created_by_user_id": 9,
+    "responded_by_user_id": 11,
+    "responded_at": "2026-10-15T03:33:03Z",
+    "collected_at": null,
+    "created_at": "2026-10-15T03:33:03Z",
+    "updated_at": "2026-10-15T03:33:03Z"
+  },
+  "step_11_collection_confirmation": {
+    "id": 5,
+    "offer_code": "OF-11-14-8A84",
+    "listing_id": 11,
+    "recipient_id": 14,
+    "offered_quantity_portions": 80,
+    "accepted_quantity_portions": 80,
+    "collected_quantity_portions": 80,
+    "uncollected_quantity_portions": 0,
+    "match_score": 97.9,
+    "match_reasons_json": "[\"Accepts 'cooked_grains_legumes' and can absorb up to 80 of 80 available portions (max capacity: 160).\", \"Approximate distance: 1.8 km (~4 min estimated road transit).\", \"Pickup window (09:00\\u201321:30) provides 750 min overlap before deadline.\", \"Priority Tier 1 verified shelter home.\"]",
+    "status": "COLLECTED",
+    "notes": "Ready for pickup at Mess Block A loading bay. | Accepted: Accepted by Yamuna Shelter intake coordinator; vehicle arriving in 20 mins. | Collected: 80 portions verified and loaded into insulated transport boxes.",
+    "created_by_user_id": 9,
+    "responded_by_user_id": 11,
+    "responded_at": "2026-10-15T03:33:03Z",
+    "collected_at": "2026-10-15T03:33:03Z",
+    "created_at": "2026-10-15T03:33:03Z",
+    "updated_at": "2026-10-15T03:33:03Z"
+  },
+  "step_12_impact_analytics": {
+    "data_provenance_notice": "Dataset contains 1095/1095 synthetic demonstration meal records. Synthetic metrics demonstrate algorithmic behavior and must not be cited as real-world physical impact.",
+    "model_predictions": {
+      "has_trained_model": true,
+      "model_version": "v20261015_033301",
+      "selected_model": "ml_model",
+      "held_out_eval_samples": 158,
+      "ml_mae_portions": 19.898,
+      "ml_rmse_portions": 25.616,
+      "ml_wape_percent": 4.537,
+      "ml_bias_portions": 2.21,
+      "baseline_mae_portions": 49.023,
+      "baseline_wape_percent": 11.178,
+      "mae_improvement_vs_baseline_percent": 59.41
+    },
+    "simulated_planning_outcomes": {
+      "evaluated_production_plans_count": 7,
+      "total_planned_portions": 3685,
+      "total_recommended_portions": 3421,
+      "expected_surplus_under_existing_plans_portions": 419,
+      "expected_surplus_under_recommended_plans_portions": 162,
+      "simulated_overproduction_avoided_portions": 257
+    },
+    "actual_recorded_outcomes": {
+      "historical_meal_services_logged": 1095,
+      "total_meals_prepared_portions": 512782,
+      "total_meals_served_portions": 459436,
+      "total_leftover_portions": 53346,
+      "total_food_discarded_portions": 26647,
+      "total_unmet_demand_portions": 33,
+      "mean_abs_production_plan_deviation_portions": 48.75,
+      "surplus_listings_count": 4,
+      "confirmed_eligible_surplus_portions": 285,
+      "gross_offered_portions": 190,
+      "net_accepted_portions": 190,
+      "verified_collected_portions": 190,
+      "currently_reserved_pending_pickup_portions": 0,
+      "currently_available_unallocated_portions": 155,
+      "uncollected_or_expired_portions": 0
+    },
+    "derived_estimates": {
+      "redistribution_recovery_rate_percent": 66.67,
+      "redistribution_recovery_denominator": "verified_collected_portions / confirmed_eligible_surplus_portions",
+      "collection_fulfillment_rate_percent": 100.0,
+      "collection_fulfillment_denominator": "verified_collected_portions / net_accepted_portions",
+      "assumed_unit_meal_cost_inr": 65.0,
+      "estimated_cost_of_historical_discarded_food_inr": 1732055.0,
+      "estimated_value_of_collected_redistribution_inr": 12350.0,
+      "simulated_production_cost_avoided_inr": 16705.0,
+      "qualification_note": "Financial figures are derived estimates based on the configured per-portion production cost (INR 65.00/portion). Carbon emission metrics are intentionally omitted unless verified life-cycle factors are supplied."
+    }
+  }
+}

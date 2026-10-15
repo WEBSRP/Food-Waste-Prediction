@@ -1,0 +1,142 @@
+[
+  {
+    "organization_name": "Greater Noida Community Kitchen Trust (Synthetic Demo)",
+    "recipient_type": "community_kitchen",
+    "contact_person": "Aarav Sharma (Synthetic)",
+    "contact_email": "dispatch.gnckt@example.org",
+    "contact_phone": "+91-9800001001",
+    "pickup_address": "Knowledge Park III, Greater Noida, UP 201306",
+    "latitude": 28.4744,
+    "longitude": 77.492,
+    "accepted_categories": [
+      "cooked_grains_legumes",
+      "cooked_vegetables_curries",
+      "breads_bakery",
+      "packaged_dairy_beverages"
+    ],
+    "max_capacity_portions": 220,
+    "operating_hours": "07:00-22:30",
+    "pickup_window_start": "08:00",
+    "pickup_window_end": "22:00",
+    "is_verified": 1,
+    "is_active": 1,
+    "priority_tier": 1,
+    "is_synthetic": 1
+  },
+  {
+    "organization_name": "Yamuna Expressway Shelter Home Foundation (Synthetic Demo)",
+    "recipient_type": "shelter_home",
+    "contact_person": "Meera Verma (Synthetic)",
+    "contact_email": "intake.yamunashelter@example.org",
+    "contact_phone": "+91-9800001002",
+    "pickup_address": "Sector 17A, Yamuna Expressway, Gautam Buddha Nagar, UP 203201",
+    "latitude": 28.381,
+    "longitude": 77.532,
+    "accepted_categories": [
+      "cooked_grains_legumes",
+      "cooked_vegetables_curries",
+      "breads_bakery"
+    ],
+    "max_capacity_portions": 160,
+    "operating_hours": "08:00-22:00",
+    "pickup_window_start": "09:00",
+    "pickup_window_end": "21:30",
+    "is_verified": 1,
+    "is_active": 1,
+    "priority_tier": 1,
+    "is_synthetic": 1
+  },
+  {
+    "organization_name": "Dankaur Rural Child Nutrition Center (Synthetic Demo)",
+    "recipient_type": "child_welfare_ngo",
+    "contact_person": "Dr. Rajeshwari Nair (Synthetic)",
+    "contact_email": "nutrition.dankaur@example.org",
+    "contact_phone": "+91-9800001003",
+    "pickup_address": "Dankaur Station Road, Gautam Buddha Nagar, UP 203201",
+    "latitude": 28.349,
+    "longitude": 77.554,
+    "accepted_categories": [
+      "cooked_grains_legumes",
+      "breads_bakery",
+      "packaged_dairy_beverages",
+      "fresh_fruits_salads"
+    ],
+    "max_capacity_portions": 120,
+    "operating_hours": "07:30-20:00",
+    "pickup_window_start": "08:00",
+    "pickup_window_end": "19:30",
+    "is_verified": 1,
+    "is_active": 1,
+    "priority_tier": 1,
+    "is_synthetic": 1
+  },
+  {
+    "organization_name": "Pari Chowk Night Relief Aid Society (Synthetic Demo)",
+    "recipient_type": "relief_ngo",
+    "contact_person": "Kabir Husain (Synthetic)",
+    "contact_email": "relief.parichowk@example.org",
+    "contact_phone": "+91-9800001004",
+    "pickup_address": "Near Pari Chowk Metro, Greater Noida, UP 201310",
+    "latitude": 28.463,
+    "longitude": 77.5105,
+    "accepted_categories": [
+      "cooked_grains_legumes",
+      "cooked_vegetables_curries",
+      "breads_bakery",
+      "fresh_fruits_salads"
+    ],
+    "max_capacity_portions": 180,
+    "operating_hours": "11:00-23:30",
+    "pickup_window_start": "12:00",
+    "pickup_window_end": "23:00",
+    "is_verified": 1,
+    "is_active": 1,
+    "priority_tier": 2,
+    "is_synthetic": 1
+  },
+  {
+    "organization_name": "Kasna Industrial Worker Meal Bank (Synthetic Demo)",
+    "recipient_type": "community_fridge",
+    "contact_person": "Vikramaditya Singh (Synthetic)",
+    "contact_email": "kasna.mealbank@example.org",
+    "contact_phone": "+91-9800001005",
+    "pickup_address": "Site V, Kasna Industrial Area, Greater Noida, UP 201308",
+    "latitude": 28.431,
+    "longitude": 77.562,
+    "accepted_categories": [
+      "breads_bakery",
+      "packaged_dairy_beverages",
+      "fresh_fruits_salads"
+    ],
+    "max_capacity_portions": 90,
+    "operating_hours": "08:00-19:00",
+    "pickup_window_start": "09:00",
+    "pickup_window_end": "18:00",
+    "is_verified": 1,
+    "is_active": 1,
+    "priority_tier": 2,
+    "is_synthetic": 1
+  },
+  {
+    "organization_name": "Unverified Student Volunteer Circle (Synthetic Demo)",
+    "recipient_type": "volunteer_group",
+    "contact_person": "Rohan Gupta (Synthetic)",
+    "contact_email": "volunteer.unverified@example.org",
+    "contact_phone": "+91-9800001006",
+    "pickup_address": "Sector Alpha II, Greater Noida, UP 201310",
+    "latitude": 28.479,
+    "longitude": 77.516,
+    "accepted_categories": [
+      "cooked_grains_legumes",
+      "breads_bakery"
+    ],
+    "max_capacity_portions": 60,
+    "operating_hours": "09:00-21:00",
+    "pickup_window_start": "10:00",
+    "pickup_window_end": "20:00",
+    "is_verified": 0,
+    "is_active": 1,
+    "priority_tier": 3,
+    "is_synthetic": 1
+  }
+]
